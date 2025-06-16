@@ -1,0 +1,1001 @@
+symbol,side,quantity,price,timestamp,commission,strategy,notes
+MSFT,buy,172,427.4,2025-05-15T09:23:19.157261Z,3.11,mean_reversion,Good entry point
+TSLA,buy,157,239.93,2025-05-15T09:52:23.721283Z,7.41,mean_reversion,News catalyst
+AMZN,buy,130,153.04,2025-05-15T10:43:47.739144Z,6.04,breakout,Profit target hit
+AMZN,buy,180,141.87,2025-05-15T11:00:24.945326Z,3.13,scalping,
+TSLA,buy,103,220.08,2025-05-15T11:04:57.115773Z,2.82,swing,
+TSLA,buy,178,242.73,2025-05-15T11:39:33.073823Z,5.54,momentum,News catalyst
+AAPL,buy,151,155.38,2025-05-15T11:56:30.415501Z,3.07,breakout,Stop loss triggered
+AMZN,buy,169,126.73,2025-05-15T12:04:04.308496Z,3.24,swing,Technical breakout
+AAPL,buy,176,183.6,2025-05-15T12:29:13.755183Z,5.71,breakout,Good entry point
+NVDA,buy,145,653.09,2025-05-15T12:53:33.298924Z,8.06,breakout,Profit target hit
+MSFT,buy,193,353.95,2025-05-15T13:17:54.260354Z,0.51,,Market volatility
+NVDA,buy,197,762.96,2025-05-15T13:42:21.367672Z,2.8,momentum,
+NVDA,buy,139,749.5,2025-05-15T13:56:20.146225Z,5.05,swing,
+META,buy,127,327.24,2025-05-15T13:59:39.609849Z,6.24,day_trading,
+AMZN,buy,181,140.15,2025-05-15T14:14:44.480512Z,3.07,,
+NVDA,buy,132,623.42,2025-05-15T14:26:50.664900Z,8.67,scalping,
+META,buy,164,441.53,2025-05-15T15:04:18.910973Z,1.33,swing,Profit target hit
+MSFT,buy,115,356.84,2025-05-15T15:35:18.338605Z,2.04,breakout,Good entry point
+META,sell,164,390.57,2025-05-15T16:05:38.910973Z,2.23,swing,
+NVDA,sell,197,793.38,2025-05-16T02:45:59.367672Z,3.89,momentum,Profit target hit
+META,buy,160,389.09,2025-05-16T09:21:37.315217Z,9.27,scalping,Resistance level
+META,buy,190,415.32,2025-05-16T09:25:43.932697Z,7.83,swing,
+META,buy,150,470.59,2025-05-16T09:53:06.751515Z,5.51,breakout,Technical breakout
+AMZN,buy,113,173.27,2025-05-16T10:15:33.826627Z,4.14,scalping,Market volatility
+NVDA,buy,138,453.29,2025-05-16T10:34:28.768304Z,6.95,momentum,Resistance level
+META,buy,135,346.68,2025-05-16T11:09:20.433558Z,8.92,mean_reversion,Technical breakout
+AAPL,buy,152,171.97,2025-05-16T11:15:15.040768Z,2.23,breakout,Stop loss triggered
+NVDA,buy,160,418.89,2025-05-16T11:22:16.489632Z,2.85,scalping,Technical breakout
+NVDA,buy,125,460.56,2025-05-16T11:46:24.090501Z,2.79,swing,
+TSLA,buy,158,243.94,2025-05-16T11:47:04.973635Z,1.39,day_trading,News catalyst
+GOOG,buy,130,2502.26,2025-05-16T12:41:36.068792Z,1.36,day_trading,
+GOOG,buy,200,2670.56,2025-05-16T13:03:31.777604Z,8.19,mean_reversion,Resistance level
+AAPL,buy,196,169.25,2025-05-16T13:34:35.990529Z,1.7,,Market volatility
+TSLA,buy,187,275.3,2025-05-16T14:06:09.320073Z,7.21,momentum,Resistance level
+AAPL,buy,176,160.11,2025-05-16T14:32:33.062247Z,7.72,scalping,
+MSFT,buy,172,391.6,2025-05-16T14:50:13.382359Z,6.07,swing,Technical breakout
+AAPL,buy,193,161.69,2025-05-16T14:53:02.283018Z,9.46,,Technical breakout
+AMZN,buy,110,175.18,2025-05-16T15:53:49.887215Z,9.66,swing,Stop loss triggered
+NVDA,buy,124,605.66,2025-05-16T16:38:14.182652Z,1.01,day_trading,Profit target hit
+AAPL,sell,193,152.97,2025-05-16T18:43:54.283018Z,1.78,,Stop loss triggered
+AMZN,sell,113,152.67,2025-05-16T22:43:41.826627Z,0.92,scalping,Stop loss triggered
+AAPL,sell,152,186.12,2025-05-17T00:01:22.040768Z,4.9,breakout,
+TSLA,sell,157,247.49,2025-05-17T07:26:47.721283Z,7.54,mean_reversion,Good entry point
+AMZN,sell,180,136.43,2025-05-17T07:52:59.945326Z,1.23,scalping,Technical breakout
+AMZN,buy,133,172.24,2025-05-17T09:01:38.212884Z,0.44,day_trading,
+AAPL,buy,165,176.07,2025-05-17T09:20:10.289662Z,2.79,swing,
+GOOG,buy,167,2596.93,2025-05-17T09:26:09.296508Z,3.42,scalping,Market volatility
+META,buy,136,316.53,2025-05-17T09:44:16.374676Z,8.97,momentum,Technical breakout
+AMZN,sell,110,169.25,2025-05-17T10:31:48.887215Z,0.25,swing,
+NVDA,buy,184,684.11,2025-05-17T10:41:04.486960Z,6.75,mean_reversion,Market volatility
+AMZN,buy,112,134.91,2025-05-17T10:45:57.925591Z,4.73,mean_reversion,Good entry point
+TSLA,buy,117,242.51,2025-05-17T10:51:00.735527Z,2.44,scalping,Stop loss triggered
+AMZN,buy,112,159.05,2025-05-17T11:07:15.089258Z,4.48,day_trading,Stop loss triggered
+AMZN,buy,167,125.75,2025-05-17T11:37:16.218100Z,8.56,day_trading,
+TSLA,buy,180,180.33,2025-05-17T11:58:37.013840Z,8.51,,Good entry point
+AMZN,buy,172,126.39,2025-05-17T12:08:18.556113Z,7.97,day_trading,Market volatility
+META,buy,173,427.79,2025-05-17T12:50:08.009583Z,6.16,day_trading,Resistance level
+META,buy,170,381.44,2025-05-17T13:13:13.796881Z,6.19,breakout,News catalyst
+TSLA,buy,176,263.87,2025-05-17T13:35:11.913059Z,1.27,swing,
+GOOG,buy,162,2538.05,2025-05-17T14:14:59.684122Z,1.58,breakout,Support level
+MSFT,buy,183,394.63,2025-05-17T14:23:40.850741Z,5.54,swing,Stop loss triggered
+MSFT,buy,179,364.31,2025-05-17T14:45:13.703041Z,9.93,mean_reversion,Market volatility
+AMZN,buy,182,158.15,2025-05-17T16:23:07.219489Z,8.16,breakout,
+AMZN,buy,148,139.77,2025-05-17T16:37:22.752081Z,9.37,momentum,Good entry point
+AMZN,buy,190,151.76,2025-05-17T16:47:10.618844Z,1.87,momentum,Technical breakout
+TSLA,buy,198,248.83,2025-05-17T16:59:16.800204Z,7.92,day_trading,Technical breakout
+MSFT,sell,172,371.73,2025-05-17T17:28:01.382359Z,2.87,swing,Profit target hit
+NVDA,sell,132,629.4,2025-05-17T19:48:10.664900Z,8.95,scalping,Technical breakout
+AMZN,sell,112,160.38,2025-05-17T20:02:47.089258Z,8.62,day_trading,Stop loss triggered
+AMZN,sell,181,127.51,2025-05-17T20:07:36.480512Z,5.18,,News catalyst
+AMZN,sell,148,150.91,2025-05-17T21:47:42.752081Z,5.53,momentum,Support level
+AMZN,sell,130,135.66,2025-05-17T22:58:15.739144Z,3.97,breakout,Profit target hit
+META,sell,136,363.16,2025-05-17T23:23:31.374676Z,6.22,momentum,Profit target hit
+META,sell,160,442.32,2025-05-18T05:38:30.315217Z,2.46,scalping,Profit target hit
+NVDA,sell,139,792.21,2025-05-18T06:05:58.146225Z,9.24,swing,
+AMZN,sell,182,138.4,2025-05-18T07:59:49.219489Z,6.43,breakout,Stop loss triggered
+AMZN,buy,164,138.46,2025-05-18T09:24:54.964874Z,3.79,swing,Stop loss triggered
+TSLA,buy,164,272.24,2025-05-18T09:31:35.544725Z,4.08,momentum,Stop loss triggered
+MSFT,buy,108,425.11,2025-05-18T10:22:05.895326Z,9.87,mean_reversion,Market volatility
+AAPL,buy,135,186.71,2025-05-18T10:31:30.341212Z,3.14,day_trading,
+NVDA,sell,145,701.65,2025-05-18T10:50:07.298924Z,4.56,breakout,Support level
+TSLA,buy,105,207.48,2025-05-18T10:51:29.930539Z,7.04,swing,Market volatility
+TSLA,sell,180,213.62,2025-05-18T11:01:34.013840Z,4.96,,
+GOOG,buy,147,2744.69,2025-05-18T11:10:24.185947Z,2.84,momentum,
+GOOG,buy,132,2781.08,2025-05-18T11:21:00.189981Z,5.89,day_trading,Stop loss triggered
+GOOG,buy,175,2628.34,2025-05-18T12:03:27.531017Z,9.88,momentum,Market volatility
+TSLA,buy,141,239.92,2025-05-18T12:22:49.121302Z,2.57,mean_reversion,Resistance level
+GOOG,sell,200,3102.73,2025-05-18T12:48:35.777604Z,7.91,mean_reversion,Market volatility
+TSLA,sell,141,261.35,2025-05-18T13:01:54.121302Z,7.18,mean_reversion,Profit target hit
+AMZN,sell,169,149.81,2025-05-18T13:29:21.308496Z,2.26,swing,News catalyst
+TSLA,sell,178,255.3,2025-05-18T13:49:23.073823Z,0.7,momentum,Support level
+GOOG,buy,161,2778.77,2025-05-18T13:51:01.261965Z,2.94,swing,Resistance level
+NVDA,buy,141,407.4,2025-05-18T14:00:05.443065Z,9.5,,Profit target hit
+MSFT,buy,182,448.87,2025-05-18T14:23:52.019245Z,7.76,scalping,Market volatility
+AAPL,buy,176,153.65,2025-05-18T14:26:38.878183Z,1.81,scalping,Good entry point
+META,buy,103,359.56,2025-05-18T14:39:48.120629Z,7.66,swing,Good entry point
+TSLA,buy,147,200.77,2025-05-18T14:45:57.062199Z,1.98,swing,Stop loss triggered
+META,buy,166,401.32,2025-05-18T14:50:04.092134Z,7.52,scalping,Market volatility
+GOOG,sell,132,2399.46,2025-05-18T15:25:57.189981Z,6.83,day_trading,Resistance level
+TSLA,buy,153,216.83,2025-05-18T16:17:20.068411Z,2.42,,News catalyst
+TSLA,buy,151,208.85,2025-05-18T16:25:27.312214Z,9.73,scalping,Market volatility
+NVDA,buy,141,547.28,2025-05-18T16:25:35.385320Z,5.46,breakout,News catalyst
+MSFT,sell,182,445.05,2025-05-18T17:36:04.019245Z,5.27,scalping,Resistance level
+AMZN,sell,167,110.7,2025-05-18T18:24:55.218100Z,8.36,day_trading,
+META,sell,150,524.74,2025-05-18T21:47:21.751515Z,5.19,breakout,Support level
+NVDA,sell,125,465.22,2025-05-18T22:04:01.090501Z,2.03,swing,Stop loss triggered
+TSLA,sell,187,295.82,2025-05-19T07:13:09.320073Z,4.64,momentum,Market volatility
+META,buy,124,304.83,2025-05-19T09:26:44.778860Z,4.67,day_trading,Stop loss triggered
+META,buy,165,402.7,2025-05-19T09:41:46.929402Z,5.37,,Support level
+AAPL,buy,176,195.48,2025-05-19T09:54:31.301132Z,7.73,mean_reversion,
+AAPL,buy,168,152.86,2025-05-19T09:59:03.358072Z,7.73,,
+GOOG,buy,163,2511.62,2025-05-19T10:21:24.887757Z,6.58,scalping,Support level
+TSLA,sell,158,281.96,2025-05-19T10:50:42.973635Z,1.78,day_trading,Good entry point
+MSFT,buy,126,394.61,2025-05-19T11:04:34.208310Z,8.77,scalping,
+AAPL,buy,182,159.88,2025-05-19T11:04:51.046175Z,6.38,,Resistance level
+AMZN,buy,114,125.28,2025-05-19T11:08:48.581951Z,9.29,mean_reversion,Support level
+MSFT,buy,184,443.39,2025-05-19T11:50:36.269481Z,0.2,swing,
+AAPL,buy,156,198.25,2025-05-19T11:54:45.606670Z,2.27,mean_reversion,Market volatility
+META,buy,108,344.56,2025-05-19T12:03:40.250244Z,3.77,scalping,Stop loss triggered
+AAPL,buy,186,189.47,2025-05-19T12:31:45.099162Z,4.68,breakout,
+GOOG,buy,191,2750.55,2025-05-19T12:42:26.916581Z,8.02,breakout,Market volatility
+NVDA,buy,142,613.18,2025-05-19T12:49:10.839929Z,7.61,,Good entry point
+AAPL,sell,168,169.73,2025-05-19T13:07:58.358072Z,3.22,,News catalyst
+AMZN,buy,146,158.88,2025-05-19T13:38:59.267117Z,5.18,scalping,Market volatility
+META,buy,178,352.77,2025-05-19T14:07:52.593405Z,8.35,day_trading,Technical breakout
+AAPL,sell,156,181.62,2025-05-19T14:30:34.606670Z,2.58,mean_reversion,News catalyst
+TSLA,buy,123,204.53,2025-05-19T14:33:49.256411Z,1.36,day_trading,
+META,buy,199,322.67,2025-05-19T14:39:54.781686Z,2.77,,Market volatility
+GOOG,buy,157,2779.49,2025-05-19T15:16:10.927725Z,4.96,breakout,Resistance level
+TSLA,buy,197,209.49,2025-05-19T15:24:08.620554Z,8.12,,Stop loss triggered
+NVDA,buy,144,741.94,2025-05-19T15:30:15.106112Z,5.2,day_trading,Profit target hit
+GOOG,buy,124,2725.92,2025-05-19T15:31:39.485653Z,6.04,momentum,Profit target hit
+TSLA,buy,195,196.38,2025-05-19T15:37:11.557317Z,6.39,day_trading,Technical breakout
+TSLA,buy,162,226.78,2025-05-19T15:42:36.504987Z,0.43,scalping,Support level
+GOOG,buy,131,2670.44,2025-05-19T15:51:30.944028Z,8.04,breakout,Good entry point
+TSLA,sell,151,202.23,2025-05-19T16:01:06.312214Z,1.66,scalping,Profit target hit
+AMZN,buy,114,145.36,2025-05-19T16:48:40.098384Z,4.04,swing,Technical breakout
+NVDA,buy,184,704.29,2025-05-19T16:49:22.967355Z,4.87,scalping,Support level
+AMZN,buy,143,134.27,2025-05-19T16:49:57.134122Z,9.21,,
+AAPL,sell,151,176.27,2025-05-19T16:52:46.415501Z,8.86,breakout,
+TSLA,sell,195,173.98,2025-05-19T20:03:16.557317Z,6.96,day_trading,Resistance level
+GOOG,sell,157,3009.91,2025-05-20T00:00:56.927725Z,9.92,breakout,Support level
+TSLA,sell,153,197.29,2025-05-20T00:37:14.068411Z,7.57,,Good entry point
+AAPL,sell,176,168.48,2025-05-20T00:45:45.878183Z,8.29,scalping,
+GOOG,sell,161,2742.83,2025-05-20T05:12:36.261965Z,1.67,swing,Profit target hit
+AAPL,sell,186,168.36,2025-05-20T05:14:47.099162Z,0.53,breakout,Profit target hit
+META,sell,127,357.29,2025-05-20T06:18:53.609849Z,0.72,day_trading,Support level
+GOOG,buy,142,2709.17,2025-05-20T09:32:24.438943Z,6.08,,Resistance level
+META,buy,146,498.72,2025-05-20T10:20:37.062190Z,6.74,momentum,Profit target hit
+GOOG,buy,200,2567.86,2025-05-20T10:22:21.543914Z,0.98,swing,Support level
+META,sell,165,344.93,2025-05-20T10:26:28.929402Z,4.47,,Market volatility
+AMZN,buy,143,145.94,2025-05-20T10:36:05.581331Z,9.33,day_trading,Profit target hit
+MSFT,sell,183,380.34,2025-05-20T10:54:33.850741Z,4.75,swing,Support level
+AMZN,sell,172,150.11,2025-05-20T12:30:40.556113Z,8.18,day_trading,
+META,sell,173,505.36,2025-05-20T13:06:05.009583Z,4.27,day_trading,Resistance level
+META,buy,119,315.93,2025-05-20T13:23:04.049628Z,4.83,day_trading,
+MSFT,buy,196,398.39,2025-05-20T14:11:01.547319Z,5.47,mean_reversion,Resistance level
+AMZN,buy,172,166.4,2025-05-20T14:13:58.558446Z,0.02,swing,Profit target hit
+NVDA,buy,190,560.98,2025-05-20T14:16:36.295597Z,4.7,,
+AMZN,sell,190,176.07,2025-05-20T15:02:32.618844Z,7.89,momentum,Good entry point
+AAPL,buy,127,165.86,2025-05-20T15:42:53.736823Z,3.0,scalping,Market volatility
+META,buy,114,459.64,2025-05-20T16:18:41.156382Z,2.93,momentum,Market volatility
+MSFT,buy,141,431.0,2025-05-20T16:41:22.930854Z,2.03,,Technical breakout
+META,sell,190,470.06,2025-05-20T18:45:31.932697Z,4.34,swing,News catalyst
+MSFT,sell,108,488.47,2025-05-20T18:59:00.895326Z,5.54,mean_reversion,Good entry point
+GOOG,sell,175,2480.4,2025-05-20T20:18:39.531017Z,2.38,momentum,Profit target hit
+TSLA,sell,123,214.2,2025-05-20T20:25:37.256411Z,1.74,day_trading,Good entry point
+NVDA,sell,141,486.72,2025-05-20T21:19:39.385320Z,4.7,breakout,Profit target hit
+MSFT,sell,172,489.34,2025-05-20T21:58:42.157261Z,6.01,mean_reversion,
+META,sell,199,285.8,2025-05-20T22:57:02.781686Z,4.02,,Good entry point
+META,sell,124,277.28,2025-05-21T00:51:36.778860Z,5.25,day_trading,
+MSFT,sell,193,366.15,2025-05-21T02:20:59.260354Z,2.16,,Good entry point
+GOOG,sell,162,2294.52,2025-05-21T03:20:03.684122Z,0.13,breakout,Good entry point
+NVDA,sell,138,533.2,2025-05-21T06:15:44.768304Z,2.46,momentum,Technical breakout
+NVDA,sell,184,762.91,2025-05-21T08:06:41.486960Z,9.93,mean_reversion,Resistance level
+AAPL,sell,196,190.9,2025-05-21T08:47:30.990529Z,3.06,,Support level
+MSFT,buy,125,435.28,2025-05-21T09:00:05.861365Z,1.8,day_trading,Resistance level
+AMZN,buy,101,143.16,2025-05-21T09:04:58.145794Z,2.84,scalping,Profit target hit
+AAPL,buy,198,195.41,2025-05-21T09:21:02.018930Z,0.9,,
+META,buy,184,493.1,2025-05-21T09:50:57.103887Z,6.31,,Support level
+GOOG,buy,193,2607.78,2025-05-21T09:57:52.026714Z,3.48,mean_reversion,Technical breakout
+AMZN,sell,143,154.4,2025-05-21T10:58:32.581331Z,3.38,day_trading,Support level
+MSFT,sell,141,456.04,2025-05-21T11:10:39.930854Z,0.3,,News catalyst
+NVDA,buy,145,425.64,2025-05-21T11:58:05.918605Z,5.48,momentum,Profit target hit
+AMZN,buy,138,145.71,2025-05-21T12:25:27.062177Z,4.26,,
+AAPL,buy,126,189.89,2025-05-21T12:56:27.435106Z,5.11,scalping,Resistance level
+GOOG,buy,158,2588.74,2025-05-21T14:03:46.964950Z,5.36,breakout,News catalyst
+AAPL,buy,179,195.63,2025-05-21T14:12:24.031065Z,8.97,day_trading,
+AAPL,sell,176,145.09,2025-05-21T14:31:48.062247Z,4.09,scalping,Technical breakout
+META,buy,104,493.08,2025-05-21T14:31:48.526049Z,1.39,swing,Resistance level
+AMZN,sell,112,128.65,2025-05-21T14:37:14.925591Z,4.63,mean_reversion,Profit target hit
+META,buy,108,311.6,2025-05-21T14:57:59.001502Z,9.39,swing,News catalyst
+AAPL,buy,154,193.62,2025-05-21T15:43:08.065191Z,8.9,,Good entry point
+NVDA,sell,145,399.27,2025-05-21T16:37:00.918605Z,3.97,momentum,Stop loss triggered
+META,buy,142,478.99,2025-05-21T16:42:55.550610Z,9.86,mean_reversion,Market volatility
+AAPL,sell,127,167.95,2025-05-21T17:36:19.736823Z,8.29,scalping,Technical breakout
+NVDA,sell,124,515.06,2025-05-21T17:54:05.182652Z,6.5,day_trading,Technical breakout
+META,sell,166,465.37,2025-05-21T18:33:24.092134Z,6.55,scalping,Good entry point
+AAPL,sell,165,210.99,2025-05-21T19:53:26.289662Z,7.28,swing,Profit target hit
+TSLA,sell,117,242.47,2025-05-21T20:33:11.735527Z,1.06,scalping,News catalyst
+TSLA,sell,164,240.91,2025-05-21T21:05:59.544725Z,8.07,momentum,Technical breakout
+GOOG,sell,124,2693.4,2025-05-21T21:18:18.485653Z,4.91,momentum,Profit target hit
+AMZN,sell,114,173.51,2025-05-21T21:48:30.098384Z,4.1,swing,Stop loss triggered
+AAPL,sell,135,174.64,2025-05-22T00:59:36.341212Z,8.77,day_trading,
+MSFT,sell,115,347.54,2025-05-22T01:28:27.338605Z,4.77,breakout,Technical breakout
+META,sell,119,283.12,2025-05-22T02:08:39.049628Z,4.67,day_trading,Technical breakout
+META,sell,103,412.45,2025-05-22T04:18:12.120629Z,8.11,swing,News catalyst
+AAPL,sell,176,172.27,2025-05-22T06:25:16.755183Z,0.76,breakout,Market volatility
+META,sell,114,422.01,2025-05-22T09:42:41.156382Z,2.5,momentum,News catalyst
+META,buy,130,393.04,2025-05-22T10:00:47.045317Z,2.99,momentum,Market volatility
+TSLA,buy,133,272.68,2025-05-22T10:10:42.067113Z,2.38,scalping,Market volatility
+MSFT,buy,179,424.24,2025-05-22T10:45:30.007752Z,7.88,,
+TSLA,sell,103,207.17,2025-05-22T10:52:49.115773Z,1.26,swing,Support level
+MSFT,buy,178,413.05,2025-05-22T11:16:46.998898Z,4.52,swing,News catalyst
+MSFT,buy,200,441.97,2025-05-22T11:30:02.649982Z,4.45,mean_reversion,Technical breakout
+MSFT,buy,160,382.88,2025-05-22T11:30:31.879500Z,6.31,swing,Market volatility
+TSLA,sell,198,278.8,2025-05-22T12:41:12.800204Z,8.93,day_trading,Market volatility
+GOOG,buy,185,2659.05,2025-05-22T12:49:41.849186Z,6.81,momentum,News catalyst
+AMZN,buy,178,137.76,2025-05-22T12:49:49.532198Z,1.42,day_trading,
+GOOG,sell,191,3233.78,2025-05-22T13:00:13.916581Z,3.73,breakout,Resistance level
+TSLA,buy,105,213.53,2025-05-22T13:06:07.496680Z,6.41,scalping,
+AMZN,buy,113,133.64,2025-05-22T13:12:51.008169Z,9.29,swing,Good entry point
+META,buy,178,453.58,2025-05-22T13:52:30.147892Z,2.04,,Support level
+META,buy,193,451.13,2025-05-22T14:06:45.242457Z,6.64,mean_reversion,Profit target hit
+AMZN,buy,152,128.51,2025-05-22T15:16:28.956736Z,8.01,scalping,
+META,buy,126,459.39,2025-05-22T15:28:07.505928Z,7.29,swing,Market volatility
+AMZN,sell,114,142.81,2025-05-22T15:31:01.581951Z,2.53,mean_reversion,Technical breakout
+GOOG,sell,130,2275.37,2025-05-22T16:19:32.068792Z,9.8,day_trading,Resistance level
+NVDA,buy,194,772.77,2025-05-22T16:21:49.813555Z,2.62,scalping,Profit target hit
+MSFT,buy,170,363.36,2025-05-22T16:55:38.037190Z,1.91,mean_reversion,Technical breakout
+GOOG,sell,142,2636.0,2025-05-22T18:54:13.438943Z,0.77,,Good entry point
+NVDA,sell,141,434.59,2025-05-22T19:26:00.443065Z,1.22,,
+MSFT,sell,179,316.4,2025-05-22T20:54:32.703041Z,2.86,mean_reversion,Profit target hit
+MSFT,sell,179,458.61,2025-05-22T20:54:34.007752Z,5.52,,Support level
+META,sell,146,491.02,2025-05-22T23:03:54.062190Z,4.08,momentum,Profit target hit
+AAPL,sell,198,190.59,2025-05-23T04:22:00.018930Z,6.03,,Stop loss triggered
+GOOG,sell,200,2606.5,2025-05-23T05:25:09.543914Z,9.92,swing,News catalyst
+META,sell,178,307.05,2025-05-23T05:46:35.593405Z,2.5,day_trading,
+META,sell,135,359.17,2025-05-23T07:44:08.433558Z,9.33,mean_reversion,Technical breakout
+NVDA,sell,160,473.08,2025-05-23T08:53:51.489632Z,9.96,scalping,
+META,buy,198,431.93,2025-05-23T09:06:42.802409Z,3.02,momentum,Resistance level
+META,sell,170,451.44,2025-05-23T09:15:13.796881Z,6.54,breakout,Good entry point
+TSLA,buy,158,270.8,2025-05-23T09:23:44.591352Z,4.19,day_trading,
+META,buy,183,402.47,2025-05-23T09:28:34.091481Z,4.63,scalping,
+AAPL,buy,112,161.41,2025-05-23T09:57:52.031103Z,3.38,breakout,
+TSLA,buy,183,273.29,2025-05-23T11:17:48.631287Z,0.66,day_trading,Technical breakout
+GOOG,sell,163,2490.2,2025-05-23T11:24:07.887757Z,9.01,scalping,News catalyst
+META,sell,184,488.55,2025-05-23T12:28:12.103887Z,1.7,,
+TSLA,sell,176,242.11,2025-05-23T12:53:35.913059Z,8.29,swing,Support level
+AAPL,buy,109,199.52,2025-05-23T13:43:16.648705Z,3.68,momentum,Technical breakout
+META,buy,185,462.92,2025-05-23T13:50:28.092694Z,2.44,,Support level
+AAPL,buy,147,153.38,2025-05-23T13:52:11.951154Z,6.68,day_trading,Resistance level
+NVDA,sell,142,700.28,2025-05-23T14:12:17.839929Z,2.28,,Market volatility
+AMZN,sell,133,200.75,2025-05-23T14:22:11.212884Z,2.58,day_trading,Good entry point
+MSFT,buy,185,411.18,2025-05-23T14:36:57.904506Z,4.44,mean_reversion,Support level
+TSLA,buy,149,273.48,2025-05-23T14:45:31.440402Z,7.35,mean_reversion,Market volatility
+GOOG,buy,185,2659.4,2025-05-23T14:59:14.644092Z,4.34,scalping,
+MSFT,buy,157,431.56,2025-05-23T15:20:32.194806Z,4.09,,News catalyst
+AMZN,sell,164,149.13,2025-05-23T15:39:20.964874Z,3.22,swing,Profit target hit
+AAPL,buy,170,186.19,2025-05-23T15:54:03.055569Z,7.23,scalping,Support level
+AMZN,sell,101,149.98,2025-05-23T16:23:57.145794Z,7.57,scalping,Good entry point
+AMZN,buy,111,125.31,2025-05-23T16:31:08.653858Z,6.44,momentum,Profit target hit
+MSFT,sell,178,450.88,2025-05-23T16:54:54.998898Z,1.27,swing,Resistance level
+TSLA,sell,197,192.89,2025-05-23T19:38:22.620554Z,5.24,,Support level
+META,sell,185,554.69,2025-05-23T21:35:48.092694Z,4.6,,
+GOOG,sell,167,2732.35,2025-05-23T23:05:08.296508Z,0.23,scalping,
+META,sell,108,393.73,2025-05-24T01:39:55.250244Z,1.82,scalping,Market volatility
+TSLA,sell,105,244.25,2025-05-24T03:29:19.930539Z,4.75,swing,Resistance level
+GOOG,sell,185,3157.58,2025-05-24T04:24:38.849186Z,8.11,momentum,
+NVDA,sell,144,681.26,2025-05-24T07:53:44.106112Z,3.47,day_trading,Good entry point
+MSFT,sell,160,408.91,2025-05-24T09:04:48.879500Z,3.76,swing,
+META,buy,170,424.31,2025-05-24T10:47:51.127825Z,4.01,scalping,Support level
+TSLA,buy,195,251.06,2025-05-24T10:58:42.623551Z,0.96,momentum,Profit target hit
+AAPL,sell,176,176.34,2025-05-24T12:22:40.301132Z,8.98,mean_reversion,Technical breakout
+AMZN,buy,180,141.72,2025-05-24T12:26:48.932089Z,4.29,,Market volatility
+AMZN,buy,168,127.93,2025-05-24T12:32:01.500426Z,2.97,swing,Support level
+AMZN,buy,165,169.88,2025-05-24T13:26:45.048564Z,6.6,swing,Market volatility
+GOOG,buy,139,2662.09,2025-05-24T13:41:47.566009Z,0.87,mean_reversion,News catalyst
+NVDA,buy,181,778.17,2025-05-24T13:45:26.976531Z,6.95,scalping,Stop loss triggered
+AMZN,buy,150,134.95,2025-05-24T13:46:10.760176Z,6.77,breakout,Good entry point
+META,sell,170,421.22,2025-05-24T14:16:09.127825Z,4.96,scalping,News catalyst
+META,buy,107,399.98,2025-05-24T14:23:51.592239Z,1.72,,Good entry point
+AAPL,buy,157,163.62,2025-05-24T14:31:28.630101Z,2.77,day_trading,Stop loss triggered
+TSLA,buy,178,212.69,2025-05-24T14:36:55.875550Z,0.55,day_trading,Profit target hit
+GOOG,sell,131,2837.31,2025-05-24T14:50:02.944028Z,8.28,breakout,Good entry point
+META,buy,127,382.06,2025-05-24T15:24:48.394968Z,7.83,mean_reversion,Profit target hit
+AAPL,buy,100,166.54,2025-05-24T16:12:04.526063Z,4.51,day_trading,News catalyst
+AMZN,buy,106,177.82,2025-05-24T16:16:13.085147Z,1.88,momentum,Profit target hit
+TSLA,buy,118,267.05,2025-05-24T16:20:45.989816Z,6.31,mean_reversion,Profit target hit
+META,buy,108,301.06,2025-05-24T16:31:23.444477Z,7.25,day_trading,Resistance level
+NVDA,sell,194,847.47,2025-05-24T16:40:13.813555Z,4.37,scalping,Technical breakout
+AMZN,sell,168,109.03,2025-05-24T20:13:32.500426Z,4.51,swing,Market volatility
+AAPL,sell,182,140.31,2025-05-24T21:14:33.046175Z,5.09,,Technical breakout
+META,sell,183,471.9,2025-05-24T21:21:22.091481Z,3.14,scalping,
+MSFT,sell,185,415.53,2025-05-24T21:31:23.904506Z,9.65,mean_reversion,Stop loss triggered
+AAPL,sell,112,155.49,2025-05-25T00:20:54.031103Z,1.2,breakout,
+AMZN,sell,143,140.32,2025-05-25T02:18:55.134122Z,8.82,,Support level
+TSLA,sell,133,286.14,2025-05-25T04:10:39.067113Z,8.68,scalping,Stop loss triggered
+GOOG,sell,147,3172.46,2025-05-25T05:15:52.185947Z,5.73,momentum,Market volatility
+TSLA,sell,147,180.23,2025-05-25T05:46:10.062199Z,6.87,swing,Stop loss triggered
+TSLA,sell,183,298.52,2025-05-25T05:47:58.631287Z,4.33,day_trading,Profit target hit
+NVDA,sell,181,668.94,2025-05-25T07:16:00.976531Z,4.76,scalping,Support level
+TSLA,sell,162,227.97,2025-05-25T08:01:53.504987Z,0.8,scalping,Support level
+AAPL,buy,106,179.56,2025-05-25T09:53:27.497148Z,6.06,,Market volatility
+NVDA,buy,157,737.31,2025-05-25T10:06:07.316977Z,4.79,mean_reversion,
+MSFT,sell,200,497.09,2025-05-25T10:29:17.649982Z,8.19,mean_reversion,Good entry point
+MSFT,sell,184,412.56,2025-05-25T10:37:10.269481Z,7.01,swing,Good entry point
+NVDA,buy,121,445.0,2025-05-25T11:26:52.712790Z,8.65,day_trading,
+AAPL,buy,159,162.12,2025-05-25T11:32:01.069366Z,4.1,mean_reversion,Profit target hit
+GOOG,buy,119,2702.46,2025-05-25T11:44:43.701957Z,3.58,swing,Technical breakout
+META,buy,110,393.9,2025-05-25T11:46:54.899004Z,9.71,swing,
+MSFT,sell,157,429.82,2025-05-25T12:04:07.194806Z,6.67,,
+MSFT,sell,196,389.79,2025-05-25T12:30:54.547319Z,0.12,mean_reversion,Profit target hit
+GOOG,sell,193,2940.24,2025-05-25T12:41:13.026714Z,0.17,mean_reversion,Technical breakout
+META,sell,193,536.4,2025-05-25T13:35:12.242457Z,5.06,mean_reversion,Good entry point
+MSFT,buy,179,374.68,2025-05-25T14:05:58.867658Z,1.52,day_trading,Good entry point
+MSFT,buy,146,403.9,2025-05-25T14:19:24.183201Z,6.22,scalping,Stop loss triggered
+AMZN,sell,172,169.53,2025-05-25T14:36:27.558446Z,6.66,swing,News catalyst
+AAPL,buy,133,182.4,2025-05-25T15:16:59.001219Z,7.94,momentum,Stop loss triggered
+AAPL,buy,146,172.35,2025-05-25T16:07:23.625751Z,8.37,swing,Profit target hit
+META,buy,180,460.82,2025-05-25T16:10:49.790647Z,1.6,scalping,Stop loss triggered
+GOOG,buy,148,2757.78,2025-05-25T16:24:24.018734Z,9.36,day_trading,Technical breakout
+AMZN,buy,137,123.02,2025-05-25T16:53:18.493001Z,2.7,momentum,
+MSFT,sell,126,390.29,2025-05-25T17:17:05.208310Z,2.21,scalping,Good entry point
+AMZN,sell,146,156.8,2025-05-25T17:36:38.267117Z,2.82,scalping,News catalyst
+NVDA,sell,190,646.5,2025-05-25T18:44:43.295597Z,7.28,,Stop loss triggered
+AAPL,sell,109,189.29,2025-05-25T19:16:41.648705Z,5.99,momentum,Good entry point
+AMZN,sell,113,136.75,2025-05-25T20:11:49.008169Z,1.0,swing,Stop loss triggered
+NVDA,sell,157,708.0,2025-05-26T00:48:41.316977Z,4.59,mean_reversion,Market volatility
+META,sell,108,285.99,2025-05-26T00:57:47.444477Z,6.91,day_trading,Stop loss triggered
+AAPL,sell,179,201.33,2025-05-26T01:16:42.031065Z,6.12,day_trading,
+TSLA,sell,178,238.82,2025-05-26T02:39:39.875550Z,8.66,day_trading,News catalyst
+AMZN,sell,165,160.25,2025-05-26T03:36:53.048564Z,5.8,swing,Support level
+META,sell,178,503.42,2025-05-26T04:45:28.147892Z,9.19,,
+META,sell,110,345.66,2025-05-26T08:09:32.899004Z,0.66,swing,
+GOOG,buy,114,2741.14,2025-05-26T09:16:30.541572Z,0.89,momentum,Technical breakout
+GOOG,sell,114,3250.01,2025-05-26T09:29:47.541572Z,5.45,momentum,Stop loss triggered
+GOOG,buy,108,2644.63,2025-05-26T09:53:13.698679Z,4.95,swing,News catalyst
+NVDA,buy,109,503.7,2025-05-26T10:01:54.775724Z,0.88,swing,Good entry point
+GOOG,sell,119,2506.48,2025-05-26T10:10:41.701957Z,9.65,swing,Technical breakout
+MSFT,buy,126,413.91,2025-05-26T10:26:44.050281Z,1.41,mean_reversion,Good entry point
+AMZN,buy,141,177.52,2025-05-26T10:46:07.610561Z,8.62,mean_reversion,Profit target hit
+AMZN,buy,135,123.68,2025-05-26T11:31:54.907578Z,2.3,day_trading,Market volatility
+AMZN,sell,180,159.46,2025-05-26T11:51:09.932089Z,3.4,,Stop loss triggered
+TSLA,sell,149,288.26,2025-05-26T12:07:28.440402Z,5.9,mean_reversion,Stop loss triggered
+MSFT,buy,138,440.09,2025-05-26T12:23:09.683712Z,2.49,,Support level
+NVDA,sell,184,665.13,2025-05-26T12:35:30.967355Z,3.25,scalping,Good entry point
+NVDA,buy,146,516.37,2025-05-26T12:41:49.011913Z,4.52,scalping,Stop loss triggered
+MSFT,buy,154,390.19,2025-05-26T12:58:16.040335Z,6.98,swing,
+GOOG,buy,173,2705.81,2025-05-26T13:29:13.884033Z,2.14,momentum,
+TSLA,buy,147,245.32,2025-05-26T13:33:07.337538Z,9.32,swing,News catalyst
+TSLA,buy,142,247.95,2025-05-26T13:47:12.784353Z,1.89,day_trading,Resistance level
+MSFT,buy,169,404.84,2025-05-26T14:06:04.987689Z,7.1,,Resistance level
+AAPL,sell,154,178.17,2025-05-26T14:09:54.065191Z,9.88,,Good entry point
+MSFT,buy,165,441.48,2025-05-26T14:53:20.020041Z,8.18,,Support level
+TSLA,buy,122,182.97,2025-05-26T15:27:21.321074Z,7.19,swing,Stop loss triggered
+NVDA,buy,153,556.47,2025-05-26T16:02:07.776515Z,9.63,swing,
+AAPL,buy,120,176.49,2025-05-26T16:03:55.731670Z,9.28,scalping,Good entry point
+AAPL,buy,142,158.4,2025-05-26T16:29:30.399342Z,6.26,swing,News catalyst
+AAPL,buy,111,180.14,2025-05-26T16:44:52.014829Z,8.25,,
+AMZN,sell,111,123.46,2025-05-26T18:44:02.653858Z,0.75,momentum,
+AAPL,sell,126,185.22,2025-05-26T21:24:48.435106Z,6.78,scalping,Support level
+TSLA,sell,105,188.94,2025-05-26T21:36:28.496680Z,2.41,scalping,Good entry point
+META,sell,142,565.92,2025-05-26T21:38:49.550610Z,9.66,mean_reversion,Resistance level
+TSLA,sell,142,296.51,2025-05-26T22:08:12.784353Z,8.92,day_trading,
+GOOG,sell,108,2745.54,2025-05-27T02:56:38.698679Z,2.11,swing,Market volatility
+MSFT,sell,125,477.63,2025-05-27T05:02:35.861365Z,8.15,day_trading,
+MSFT,sell,179,331.47,2025-05-27T06:56:21.867658Z,2.76,day_trading,Technical breakout
+TSLA,buy,108,234.95,2025-05-27T09:03:48.805852Z,4.72,breakout,Resistance level
+AAPL,sell,120,195.11,2025-05-27T11:12:47.731670Z,7.81,scalping,Resistance level
+TSLA,buy,187,270.06,2025-05-27T11:35:27.869491Z,5.93,scalping,
+GOOG,sell,158,2219.65,2025-05-27T11:38:20.964950Z,7.13,breakout,Market volatility
+META,buy,164,380.13,2025-05-27T12:10:11.229747Z,0.28,,Technical breakout
+AMZN,sell,178,141.29,2025-05-27T12:40:56.532198Z,5.51,day_trading,Profit target hit
+TSLA,sell,122,162.12,2025-05-27T14:12:43.321074Z,7.56,swing,
+AMZN,buy,102,145.06,2025-05-27T15:06:02.566804Z,5.18,swing,News catalyst
+AAPL,buy,179,152.58,2025-05-27T15:34:32.838398Z,3.39,breakout,Stop loss triggered
+MSFT,buy,121,405.51,2025-05-27T16:03:22.590667Z,0.46,momentum,Profit target hit
+MSFT,sell,170,343.94,2025-05-27T16:04:34.037190Z,8.7,mean_reversion,Market volatility
+GOOG,buy,151,2647.7,2025-05-27T16:17:57.842127Z,7.08,breakout,Market volatility
+AAPL,buy,129,188.41,2025-05-27T16:58:41.607350Z,1.05,scalping,News catalyst
+TSLA,sell,147,221.22,2025-05-27T19:37:02.337538Z,8.53,swing,Good entry point
+AMZN,sell,106,190.48,2025-05-27T21:05:08.085147Z,8.88,momentum,Stop loss triggered
+AAPL,sell,147,170.01,2025-05-27T23:07:57.951154Z,5.41,day_trading,News catalyst
+TSLA,sell,158,231.88,2025-05-27T23:13:25.591352Z,9.06,day_trading,News catalyst
+TSLA,sell,195,263.15,2025-05-27T23:20:24.623551Z,6.27,momentum,Profit target hit
+META,sell,104,576.55,2025-05-28T00:08:57.526049Z,2.72,swing,Profit target hit
+AMZN,sell,138,171.11,2025-05-28T00:30:43.062177Z,4.54,,
+MSFT,sell,169,456.57,2025-05-28T00:57:14.987689Z,0.64,,Stop loss triggered
+META,sell,108,373.47,2025-05-28T02:08:20.001502Z,0.17,swing,
+GOOG,sell,139,2797.86,2025-05-28T02:21:49.566009Z,5.53,mean_reversion,News catalyst
+MSFT,sell,146,370.43,2025-05-28T03:00:51.183201Z,7.68,scalping,Stop loss triggered
+NVDA,sell,109,577.84,2025-05-28T03:27:23.775724Z,8.99,swing,Profit target hit
+AAPL,sell,106,200.6,2025-05-28T03:49:01.497148Z,0.97,,Resistance level
+AMZN,sell,135,145.16,2025-05-28T03:59:39.907578Z,0.8,day_trading,Profit target hit
+GOOG,sell,185,2336.75,2025-05-28T07:27:21.644092Z,1.31,scalping,Profit target hit
+META,sell,126,476.4,2025-05-28T07:33:28.505928Z,0.06,swing,Resistance level
+AMZN,sell,150,115.22,2025-05-28T09:01:21.760176Z,7.97,breakout,Support level
+AAPL,buy,111,156.46,2025-05-28T09:12:33.555469Z,4.19,swing,Profit target hit
+NVDA,buy,133,464.97,2025-05-28T09:22:52.963029Z,4.88,momentum,Profit target hit
+AAPL,buy,115,155.11,2025-05-28T09:56:49.422349Z,7.99,,Stop loss triggered
+AAPL,buy,104,198.43,2025-05-28T11:04:12.076001Z,5.01,momentum,Technical breakout
+AAPL,buy,103,194.66,2025-05-28T11:05:05.194700Z,4.25,mean_reversion,Profit target hit
+AMZN,buy,148,148.75,2025-05-28T11:42:34.758856Z,0.07,swing,
+NVDA,buy,134,545.05,2025-05-28T12:01:30.558474Z,1.04,,
+META,buy,195,461.91,2025-05-28T12:09:33.573574Z,8.56,mean_reversion,Technical breakout
+NVDA,sell,134,489.22,2025-05-28T12:31:12.558474Z,6.26,,Market volatility
+NVDA,sell,121,490.82,2025-05-28T12:31:41.712790Z,7.49,day_trading,Profit target hit
+AAPL,buy,155,166.63,2025-05-28T13:40:05.321968Z,4.98,swing,Market volatility
+MSFT,buy,183,383.69,2025-05-28T14:01:47.019083Z,0.84,swing,Stop loss triggered
+MSFT,buy,186,357.13,2025-05-28T15:26:56.573198Z,9.16,swing,Resistance level
+TSLA,buy,158,217.06,2025-05-28T16:01:53.926073Z,7.0,momentum,
+TSLA,buy,139,264.36,2025-05-28T16:57:38.293610Z,3.67,,Stop loss triggered
+AAPL,sell,142,171.54,2025-05-28T17:53:38.399342Z,6.87,swing,Support level
+AMZN,sell,152,111.93,2025-05-28T21:07:49.956736Z,8.6,scalping,Technical breakout
+META,sell,130,430.87,2025-05-29T00:12:06.045317Z,5.37,momentum,Resistance level
+NVDA,sell,133,464.16,2025-05-29T03:57:39.963029Z,9.74,momentum,
+META,sell,164,376.89,2025-05-29T07:25:37.229747Z,3.06,,Market volatility
+META,sell,180,541.5,2025-05-29T07:41:02.790647Z,2.51,scalping,Stop loss triggered
+AMZN,sell,141,210.83,2025-05-29T08:57:57.610561Z,6.65,mean_reversion,
+AAPL,sell,159,172.46,2025-05-29T09:07:01.069366Z,1.48,mean_reversion,News catalyst
+META,buy,197,347.21,2025-05-29T09:38:37.837825Z,3.88,scalping,Resistance level
+NVDA,buy,171,580.34,2025-05-29T09:38:53.122296Z,7.89,breakout,Good entry point
+NVDA,buy,195,583.45,2025-05-29T09:45:51.306931Z,1.37,swing,
+MSFT,buy,126,361.42,2025-05-29T10:03:53.642734Z,7.26,mean_reversion,Technical breakout
+GOOG,buy,173,2670.08,2025-05-29T10:16:43.317548Z,1.61,swing,
+GOOG,buy,108,2656.14,2025-05-29T10:46:39.042527Z,8.65,day_trading,Profit target hit
+AAPL,buy,111,162.75,2025-05-29T11:09:40.172303Z,6.88,mean_reversion,Good entry point
+AAPL,sell,146,174.47,2025-05-29T11:14:44.625751Z,0.94,swing,
+AAPL,buy,140,162.31,2025-05-29T11:22:17.968593Z,0.05,breakout,Stop loss triggered
+AMZN,buy,161,173.24,2025-05-29T12:36:01.008102Z,6.45,scalping,Stop loss triggered
+AAPL,sell,170,194.81,2025-05-29T13:41:49.055569Z,1.68,scalping,Stop loss triggered
+NVDA,buy,164,782.07,2025-05-29T13:56:45.629603Z,4.41,day_trading,Profit target hit
+META,buy,163,430.36,2025-05-29T13:58:34.695589Z,8.07,swing,
+AMZN,buy,139,165.87,2025-05-29T14:27:02.700718Z,3.74,momentum,Good entry point
+AAPL,buy,103,151.94,2025-05-29T14:42:45.258957Z,1.87,,Market volatility
+AMZN,buy,159,175.77,2025-05-29T15:21:48.112899Z,9.41,breakout,Good entry point
+AAPL,buy,113,178.89,2025-05-29T15:25:33.079684Z,5.55,scalping,Market volatility
+AAPL,buy,177,180.79,2025-05-29T15:33:01.376779Z,9.79,,News catalyst
+GOOG,buy,121,2708.52,2025-05-29T16:37:53.274013Z,2.12,,Resistance level
+TSLA,sell,118,306.87,2025-05-29T21:47:31.989816Z,2.71,mean_reversion,Resistance level
+META,sell,107,393.87,2025-05-30T01:05:43.592239Z,1.52,,Technical breakout
+MSFT,sell,126,375.01,2025-05-30T02:18:46.642734Z,1.15,mean_reversion,Technical breakout
+AAPL,sell,113,191.46,2025-05-30T02:22:38.079684Z,4.28,scalping,
+GOOG,sell,173,2640.48,2025-05-30T02:55:34.317548Z,9.26,swing,News catalyst
+META,sell,198,403.49,2025-05-30T06:17:24.802409Z,4.45,momentum,Market volatility
+AAPL,sell,157,140.27,2025-05-30T07:55:16.630101Z,0.19,day_trading,News catalyst
+MSFT,sell,183,343.28,2025-05-30T08:04:58.019083Z,7.14,swing,
+TSLA,sell,158,202.12,2025-05-30T08:17:06.926073Z,1.45,momentum,News catalyst
+MSFT,buy,168,380.3,2025-05-30T09:08:55.106735Z,8.61,day_trading,Support level
+TSLA,buy,166,200.46,2025-05-30T09:50:07.913531Z,8.45,,News catalyst
+META,sell,195,408.82,2025-05-30T10:01:09.573574Z,0.97,mean_reversion,News catalyst
+MSFT,buy,125,391.09,2025-05-30T10:36:19.540835Z,5.8,momentum,
+META,buy,101,476.66,2025-05-30T10:45:43.874851Z,2.11,scalping,Technical breakout
+NVDA,buy,192,639.75,2025-05-30T11:06:19.252636Z,4.03,day_trading,News catalyst
+GOOG,buy,101,2721.7,2025-05-30T11:16:33.307831Z,0.14,day_trading,Resistance level
+MSFT,buy,150,383.97,2025-05-30T11:26:11.660227Z,4.93,momentum,Market volatility
+META,buy,102,389.73,2025-05-30T11:31:39.350899Z,0.62,day_trading,Technical breakout
+META,buy,158,331.61,2025-05-30T11:49:04.825580Z,6.62,breakout,Market volatility
+MSFT,buy,141,393.14,2025-05-30T11:50:10.553786Z,0.01,day_trading,Profit target hit
+AMZN,buy,149,145.8,2025-05-30T12:13:20.846554Z,0.7,momentum,Profit target hit
+GOOG,sell,121,3025.83,2025-05-30T12:42:29.274013Z,8.33,,Support level
+AAPL,buy,140,180.23,2025-05-30T13:06:02.595386Z,7.94,scalping,Profit target hit
+NVDA,sell,192,560.51,2025-05-30T13:13:51.252636Z,0.62,day_trading,
+MSFT,sell,165,456.69,2025-05-30T13:41:01.020041Z,0.62,,Good entry point
+GOOG,sell,151,2988.68,2025-05-30T14:45:48.842127Z,1.26,breakout,Support level
+NVDA,buy,156,566.59,2025-05-30T14:58:15.458590Z,4.51,momentum,Stop loss triggered
+AAPL,buy,143,199.81,2025-05-30T15:49:19.860193Z,3.04,breakout,Stop loss triggered
+TSLA,buy,104,255.25,2025-05-30T15:56:45.723998Z,8.72,mean_reversion,Good entry point
+NVDA,buy,129,723.83,2025-05-30T16:12:55.546482Z,7.87,momentum,Technical breakout
+NVDA,sell,146,532.37,2025-05-30T16:20:27.011913Z,1.86,scalping,Good entry point
+MSFT,buy,142,353.19,2025-05-30T16:26:39.262560Z,0.89,,Support level
+AMZN,sell,161,179.11,2025-05-30T16:56:30.008102Z,6.86,scalping,
+TSLA,sell,187,270.06,2025-05-30T18:56:20.869491Z,0.99,scalping,Stop loss triggered
+NVDA,sell,153,651.55,2025-05-30T18:56:41.776515Z,9.76,swing,Profit target hit
+META,sell,101,526.54,2025-05-30T19:58:16.874851Z,2.54,scalping,Resistance level
+AAPL,sell,100,167.94,2025-05-30T20:47:25.526063Z,1.45,day_trading,
+NVDA,sell,156,503.64,2025-05-30T20:55:34.458590Z,4.58,momentum,Profit target hit
+META,sell,163,477.8,2025-05-30T21:31:43.695589Z,5.4,swing,Support level
+MSFT,sell,126,375.08,2025-05-30T23:52:55.050281Z,6.87,mean_reversion,Support level
+AAPL,sell,111,194.94,2025-05-31T06:08:20.014829Z,8.71,,Market volatility
+AAPL,sell,111,155.37,2025-05-31T06:15:34.555469Z,3.14,swing,Technical breakout
+GOOG,sell,173,2995.83,2025-05-31T06:31:55.884033Z,7.79,momentum,Resistance level
+AAPL,sell,179,130.86,2025-05-31T06:42:26.838398Z,0.98,breakout,News catalyst
+AMZN,sell,149,134.97,2025-05-31T08:35:42.846554Z,9.99,momentum,
+GOOG,sell,108,3094.69,2025-05-31T08:44:23.042527Z,2.92,day_trading,
+TSLA,buy,135,275.76,2025-05-31T09:51:58.591349Z,5.69,day_trading,Stop loss triggered
+NVDA,buy,177,671.09,2025-05-31T10:14:23.998455Z,0.38,day_trading,
+META,buy,171,387.47,2025-05-31T10:14:28.866524Z,4.56,swing,Profit target hit
+TSLA,buy,131,209.85,2025-05-31T10:15:03.955236Z,1.0,momentum,Stop loss triggered
+AAPL,sell,177,160.01,2025-05-31T10:15:06.376779Z,5.16,,Stop loss triggered
+MSFT,buy,105,435.94,2025-05-31T10:34:43.383908Z,7.83,day_trading,
+AMZN,buy,135,158.62,2025-05-31T11:11:40.532047Z,4.43,swing,News catalyst
+GOOG,buy,171,2724.82,2025-05-31T11:42:57.665528Z,7.24,mean_reversion,Market volatility
+AMZN,buy,178,123.58,2025-05-31T12:37:34.476934Z,1.98,swing,Technical breakout
+META,sell,127,363.35,2025-05-31T12:38:10.394968Z,5.27,mean_reversion,Market volatility
+GOOG,buy,173,2769.66,2025-05-31T12:45:41.345211Z,6.72,mean_reversion,
+AAPL,buy,185,159.86,2025-05-31T13:11:27.020911Z,4.27,,Technical breakout
+AMZN,sell,102,133.57,2025-05-31T13:45:29.566804Z,6.48,swing,
+GOOG,buy,113,2516.99,2025-05-31T13:48:39.886942Z,9.02,breakout,
+GOOG,buy,116,2760.63,2025-05-31T14:11:54.976760Z,6.79,momentum,Resistance level
+TSLA,buy,109,236.77,2025-05-31T14:31:04.257020Z,8.27,,Technical breakout
+MSFT,buy,182,374.42,2025-05-31T15:05:17.175052Z,9.16,mean_reversion,Stop loss triggered
+TSLA,buy,197,274.5,2025-05-31T15:22:22.409844Z,3.47,scalping,
+AAPL,buy,112,194.86,2025-05-31T15:33:07.739190Z,1.21,breakout,Support level
+TSLA,buy,138,269.74,2025-05-31T16:11:05.138426Z,7.37,day_trading,Market volatility
+TSLA,sell,166,188.65,2025-05-31T16:11:50.913531Z,4.67,,Stop loss triggered
+META,buy,110,470.43,2025-05-31T16:16:25.358844Z,9.56,scalping,Profit target hit
+AAPL,buy,135,192.51,2025-05-31T16:17:06.848935Z,6.5,breakout,
+META,buy,176,447.16,2025-05-31T16:24:07.676051Z,8.27,momentum,Support level
+AAPL,sell,140,153.54,2025-05-31T17:06:49.968593Z,8.16,breakout,Support level
+GOOG,sell,148,2575.82,2025-05-31T18:08:56.018734Z,7.74,day_trading,
+MSFT,sell,186,419.65,2025-05-31T21:12:24.573198Z,6.29,swing,
+AAPL,sell,133,216.14,2025-05-31T21:54:12.001219Z,8.07,momentum,Market volatility
+MSFT,sell,142,378.93,2025-05-31T23:04:46.262560Z,4.47,,
+TSLA,sell,108,209.86,2025-06-01T01:25:06.805852Z,8.32,breakout,Resistance level
+TSLA,sell,138,293.31,2025-06-01T03:57:21.138426Z,8.94,day_trading,Resistance level
+AAPL,sell,185,136.23,2025-06-01T04:40:37.020911Z,3.72,,Support level
+AMZN,sell,137,123.5,2025-06-01T06:08:23.493001Z,4.31,momentum,Profit target hit
+TSLA,sell,104,252.67,2025-06-01T07:03:38.723998Z,5.16,mean_reversion,Support level
+AMZN,sell,148,166.6,2025-06-01T07:34:26.758856Z,1.46,swing,
+GOOG,buy,175,2502.31,2025-06-01T10:08:44.543949Z,2.19,mean_reversion,
+MSFT,sell,138,444.93,2025-06-01T10:15:07.683712Z,6.09,,Market volatility
+NVDA,sell,129,839.81,2025-06-01T10:18:07.546482Z,7.89,momentum,
+AMZN,sell,178,110.94,2025-06-01T10:35:33.476934Z,0.36,swing,Good entry point
+AAPL,sell,103,211.73,2025-06-01T10:36:03.194700Z,2.58,mean_reversion,Support level
+NVDA,buy,189,638.01,2025-06-01T10:42:21.998777Z,2.44,breakout,Support level
+META,buy,150,423.31,2025-06-01T10:47:27.165841Z,9.06,scalping,Good entry point
+META,sell,158,370.92,2025-06-01T10:52:31.825580Z,6.88,breakout,Resistance level
+TSLA,buy,126,250.95,2025-06-01T11:00:52.580637Z,8.48,breakout,Profit target hit
+NVDA,buy,197,569.7,2025-06-01T11:01:30.741455Z,9.01,breakout,
+MSFT,buy,155,357.74,2025-06-01T11:06:27.612214Z,6.88,,Support level
+GOOG,buy,165,2650.24,2025-06-01T11:36:53.937626Z,4.54,mean_reversion,Market volatility
+GOOG,buy,199,2766.01,2025-06-01T12:14:29.731884Z,8.02,breakout,Technical breakout
+GOOG,buy,180,2545.08,2025-06-01T12:21:59.753868Z,5.67,breakout,Resistance level
+NVDA,buy,114,786.52,2025-06-01T12:51:25.454254Z,4.93,breakout,Stop loss triggered
+GOOG,buy,115,2782.28,2025-06-01T12:55:53.941337Z,3.24,scalping,
+META,buy,151,431.63,2025-06-01T14:18:43.122834Z,0.24,breakout,Support level
+MSFT,sell,182,422.22,2025-06-01T14:20:29.175052Z,8.71,mean_reversion,Stop loss triggered
+AAPL,sell,104,196.81,2025-06-01T15:56:25.076001Z,6.51,momentum,
+AAPL,buy,128,188.74,2025-06-01T16:14:59.603841Z,9.17,breakout,Profit target hit
+MSFT,sell,121,396.98,2025-06-01T20:36:46.590667Z,0.02,momentum,Resistance level
+GOOG,sell,165,2482.38,2025-06-01T20:56:57.937626Z,6.35,mean_reversion,News catalyst
+GOOG,sell,113,2727.54,2025-06-01T23:41:03.886942Z,7.85,breakout,Good entry point
+AAPL,sell,112,167.09,2025-06-02T00:17:16.739190Z,2.02,breakout,Profit target hit
+MSFT,sell,154,386.79,2025-06-02T01:55:35.040335Z,6.27,swing,Good entry point
+MSFT,sell,125,371.93,2025-06-02T02:02:27.540835Z,9.94,momentum,Support level
+META,sell,197,327.12,2025-06-02T02:15:05.837825Z,4.16,scalping,Stop loss triggered
+AMZN,sell,139,190.08,2025-06-02T06:25:04.700718Z,1.07,momentum,Market volatility
+AAPL,sell,129,185.36,2025-06-02T09:33:09.607350Z,4.67,scalping,
+NVDA,buy,120,566.43,2025-06-02T09:35:45.310348Z,9.26,swing,Stop loss triggered
+GOOG,buy,105,2682.81,2025-06-02T10:01:21.745292Z,2.78,scalping,Market volatility
+META,buy,156,308.98,2025-06-02T10:52:22.726853Z,9.78,swing,Resistance level
+AAPL,buy,194,172.42,2025-06-02T11:20:22.595845Z,7.19,scalping,Good entry point
+NVDA,buy,170,411.76,2025-06-02T11:22:47.494805Z,4.24,swing,Resistance level
+NVDA,buy,133,541.81,2025-06-02T12:09:46.456366Z,2.02,day_trading,News catalyst
+AAPL,sell,143,214.2,2025-06-02T12:30:30.860193Z,1.78,breakout,Resistance level
+TSLA,buy,176,238.23,2025-06-02T12:46:01.847100Z,2.36,mean_reversion,Market volatility
+AAPL,sell,135,187.59,2025-06-02T13:01:23.848935Z,2.07,breakout,Market volatility
+MSFT,buy,186,403.04,2025-06-02T13:04:49.687382Z,0.18,day_trading,Technical breakout
+AAPL,sell,103,151.83,2025-06-02T13:09:44.258957Z,5.87,,Profit target hit
+AAPL,buy,132,193.77,2025-06-02T13:38:42.188825Z,8.59,swing,News catalyst
+MSFT,sell,150,404.37,2025-06-02T13:47:03.660227Z,0.25,momentum,Technical breakout
+MSFT,buy,156,405.16,2025-06-02T13:48:16.264283Z,8.45,momentum,Market volatility
+TSLA,buy,107,255.66,2025-06-02T13:53:44.191637Z,3.27,scalping,Market volatility
+TSLA,buy,165,264.83,2025-06-02T14:26:15.697244Z,1.09,swing,Support level
+AAPL,sell,115,163.95,2025-06-02T15:42:41.422349Z,5.83,,Profit target hit
+GOOG,sell,116,3071.28,2025-06-02T15:48:03.976760Z,8.13,momentum,News catalyst
+NVDA,buy,162,474.8,2025-06-02T16:04:55.905143Z,3.3,scalping,Stop loss triggered
+GOOG,buy,116,2533.02,2025-06-02T16:09:17.941186Z,9.89,momentum,Stop loss triggered
+GOOG,buy,127,2673.58,2025-06-02T16:15:06.872481Z,6.35,breakout,Support level
+MSFT,sell,105,397.18,2025-06-02T16:15:20.383908Z,8.51,day_trading,Profit target hit
+META,buy,169,435.68,2025-06-02T16:53:51.771897Z,9.77,,Good entry point
+GOOG,sell,171,3248.33,2025-06-02T17:46:30.665528Z,0.84,mean_reversion,Good entry point
+AAPL,sell,155,155.63,2025-06-02T20:24:40.321968Z,1.87,swing,Good entry point
+NVDA,sell,177,654.0,2025-06-02T22:28:17.998455Z,5.54,day_trading,Support level
+AAPL,sell,111,172.57,2025-06-02T23:53:32.172303Z,9.05,mean_reversion,
+TSLA,sell,107,235.87,2025-06-02T23:55:52.191637Z,9.86,scalping,Support level
+META,sell,102,381.51,2025-06-03T02:51:27.350899Z,0.92,day_trading,Support level
+TSLA,sell,109,241.91,2025-06-03T03:00:42.257020Z,5.86,,Support level
+MSFT,sell,155,428.44,2025-06-03T07:17:57.612214Z,7.0,,Resistance level
+NVDA,buy,139,725.52,2025-06-03T09:07:47.449549Z,8.42,day_trading,
+META,buy,130,342.99,2025-06-03T09:18:51.462198Z,6.45,mean_reversion,
+GOOG,buy,187,2729.91,2025-06-03T09:24:16.477154Z,0.79,day_trading,Market volatility
+AMZN,buy,117,159.42,2025-06-03T09:43:09.054560Z,5.46,scalping,Resistance level
+META,buy,140,442.95,2025-06-03T10:02:06.382947Z,6.53,mean_reversion,
+GOOG,buy,166,2598.91,2025-06-03T10:11:43.502006Z,1.79,breakout,
+GOOG,buy,101,2790.05,2025-06-03T10:16:09.237374Z,3.58,scalping,Technical breakout
+META,buy,188,345.87,2025-06-03T10:27:51.848203Z,8.51,,
+TSLA,buy,101,193.87,2025-06-03T11:24:30.473874Z,3.86,breakout,Good entry point
+META,buy,187,447.09,2025-06-03T11:42:08.471626Z,8.9,mean_reversion,News catalyst
+META,buy,111,491.98,2025-06-03T12:09:26.061706Z,3.22,day_trading,Good entry point
+META,buy,167,447.24,2025-06-03T12:16:55.974738Z,0.01,swing,News catalyst
+GOOG,buy,184,2590.48,2025-06-03T12:33:11.991253Z,6.13,day_trading,Support level
+NVDA,sell,195,558.93,2025-06-03T13:43:25.306931Z,5.66,swing,Good entry point
+NVDA,sell,133,528.61,2025-06-03T14:53:47.456366Z,2.8,day_trading,News catalyst
+TSLA,buy,197,235.09,2025-06-03T14:59:24.253981Z,9.72,mean_reversion,
+TSLA,buy,158,265.87,2025-06-03T15:01:37.632802Z,4.29,day_trading,Profit target hit
+AMZN,buy,148,158.56,2025-06-03T15:34:03.702264Z,7.07,breakout,News catalyst
+AAPL,buy,109,168.68,2025-06-03T15:34:09.164988Z,9.16,mean_reversion,News catalyst
+AMZN,buy,104,130.87,2025-06-03T15:50:42.255080Z,7.95,breakout,Good entry point
+GOOG,buy,153,2722.64,2025-06-03T16:19:19.053099Z,3.52,,Profit target hit
+NVDA,buy,113,743.04,2025-06-03T16:31:54.785983Z,2.88,breakout,Market volatility
+TSLA,buy,179,213.05,2025-06-03T16:36:47.611253Z,3.57,breakout,Profit target hit
+NVDA,buy,157,541.57,2025-06-03T16:58:25.022350Z,5.15,scalping,News catalyst
+MSFT,buy,160,381.07,2025-06-03T16:59:58.365367Z,4.91,scalping,Technical breakout
+META,sell,150,428.66,2025-06-03T20:36:13.165841Z,7.34,scalping,
+NVDA,sell,139,803.96,2025-06-03T20:41:20.449549Z,4.51,day_trading,News catalyst
+NVDA,sell,162,511.39,2025-06-03T21:15:08.905143Z,8.43,scalping,
+AMZN,sell,117,135.81,2025-06-03T22:23:41.054560Z,4.28,scalping,Market volatility
+TSLA,sell,131,206.28,2025-06-03T23:01:11.955236Z,4.97,momentum,Market volatility
+AMZN,sell,159,156.61,2025-06-04T01:46:01.112899Z,9.48,breakout,Support level
+TSLA,sell,176,265.8,2025-06-04T02:08:28.847100Z,9.61,mean_reversion,
+TSLA,sell,139,258.41,2025-06-04T06:13:45.293610Z,0.5,,
+NVDA,sell,171,569.89,2025-06-04T07:53:02.122296Z,9.7,breakout,Market volatility
+GOOG,sell,115,3100.58,2025-06-04T08:33:43.941337Z,5.56,scalping,Stop loss triggered
+AMZN,buy,130,152.14,2025-06-04T10:45:41.255437Z,4.78,breakout,Resistance level
+TSLA,buy,190,267.43,2025-06-04T10:55:03.952072Z,1.82,mean_reversion,Good entry point
+AAPL,sell,128,196.26,2025-06-04T10:57:21.603841Z,1.67,breakout,News catalyst
+MSFT,buy,198,417.8,2025-06-04T10:59:15.374707Z,7.37,,Good entry point
+META,sell,130,357.57,2025-06-04T11:18:03.462198Z,2.9,mean_reversion,Stop loss triggered
+GOOG,buy,114,2768.16,2025-06-04T12:33:52.151629Z,0.38,day_trading,
+AMZN,buy,144,134.07,2025-06-04T13:05:43.467168Z,7.33,mean_reversion,News catalyst
+MSFT,buy,115,368.8,2025-06-04T13:08:40.147657Z,2.32,breakout,Stop loss triggered
+MSFT,buy,143,416.21,2025-06-04T13:34:44.896790Z,2.22,day_trading,Stop loss triggered
+GOOG,buy,185,2795.96,2025-06-04T13:42:07.531191Z,1.27,,
+MSFT,buy,177,421.29,2025-06-04T14:26:38.318395Z,3.2,,News catalyst
+AMZN,buy,149,178.77,2025-06-04T14:59:36.111142Z,6.45,momentum,Support level
+AAPL,buy,175,181.48,2025-06-04T15:10:06.682837Z,8.65,day_trading,Market volatility
+META,buy,121,481.27,2025-06-04T15:24:20.635905Z,9.27,breakout,Technical breakout
+AAPL,buy,107,181.86,2025-06-04T16:15:15.399749Z,3.21,breakout,Support level
+META,sell,111,450.69,2025-06-04T16:32:34.061706Z,4.76,day_trading,
+META,sell,176,387.36,2025-06-04T16:56:49.676051Z,8.79,momentum,
+MSFT,sell,186,434.63,2025-06-04T17:19:28.687382Z,2.22,day_trading,Technical breakout
+AMZN,sell,135,170.85,2025-06-04T19:10:16.532047Z,7.67,swing,Resistance level
+TSLA,sell,165,238.29,2025-06-04T20:18:22.697244Z,5.8,swing,Support level
+MSFT,sell,156,355.91,2025-06-04T20:21:29.264283Z,6.93,momentum,Profit target hit
+GOOG,sell,184,2231.29,2025-06-04T21:45:59.991253Z,9.22,day_trading,Market volatility
+AAPL,sell,140,165.27,2025-06-04T23:03:07.595386Z,4.52,scalping,Market volatility
+NVDA,sell,170,419.54,2025-06-05T00:52:09.494805Z,4.77,swing,
+MSFT,sell,168,450.07,2025-06-05T04:10:12.106735Z,1.84,day_trading,Technical breakout
+TSLA,sell,135,320.5,2025-06-05T04:11:59.591349Z,0.88,day_trading,
+GOOG,sell,173,3154.39,2025-06-05T07:40:34.345211Z,0.31,mean_reversion,Resistance level
+GOOG,buy,137,2585.59,2025-06-05T09:14:50.650005Z,2.04,day_trading,Support level
+TSLA,buy,134,268.45,2025-06-05T09:15:34.787493Z,3.59,,
+GOOG,buy,199,2513.17,2025-06-05T09:24:12.425912Z,2.11,scalping,Profit target hit
+META,buy,108,455.74,2025-06-05T09:35:07.893813Z,3.23,swing,Technical breakout
+TSLA,buy,145,222.45,2025-06-05T09:37:46.254695Z,5.66,day_trading,
+TSLA,sell,197,290.48,2025-06-05T09:48:05.409844Z,2.67,scalping,Stop loss triggered
+META,buy,198,338.74,2025-06-05T09:56:11.141950Z,7.85,swing,Good entry point
+NVDA,buy,131,549.14,2025-06-05T10:23:04.042782Z,9.31,scalping,Market volatility
+AAPL,buy,198,182.02,2025-06-05T10:23:59.278612Z,6.83,swing,Market volatility
+NVDA,buy,103,697.68,2025-06-05T11:24:53.056342Z,1.03,breakout,Profit target hit
+MSFT,buy,186,435.08,2025-06-05T11:36:33.560187Z,4.92,swing,Support level
+NVDA,sell,103,785.97,2025-06-05T11:51:19.056342Z,3.92,breakout,News catalyst
+TSLA,buy,147,216.96,2025-06-05T11:53:59.582475Z,0.25,breakout,
+NVDA,buy,149,719.26,2025-06-05T12:12:55.827473Z,6.52,mean_reversion,
+TSLA,buy,130,221.4,2025-06-05T12:32:41.981998Z,3.37,,Stop loss triggered
+AAPL,buy,119,191.35,2025-06-05T12:47:00.347051Z,5.54,,Support level
+NVDA,sell,164,937.95,2025-06-05T13:05:43.629603Z,4.45,day_trading,Technical breakout
+NVDA,sell,189,585.08,2025-06-05T13:31:02.998777Z,0.47,breakout,
+GOOG,buy,188,2597.59,2025-06-05T14:07:00.330109Z,2.32,momentum,Support level
+TSLA,buy,100,190.78,2025-06-05T14:26:54.541765Z,3.62,mean_reversion,Resistance level
+TSLA,buy,144,184.13,2025-06-05T14:46:29.190464Z,6.93,,Profit target hit
+AAPL,buy,132,176.72,2025-06-05T15:26:54.902618Z,6.8,breakout,Stop loss triggered
+NVDA,sell,157,625.63,2025-06-05T16:20:36.022350Z,1.75,scalping,
+AAPL,sell,132,231.65,2025-06-05T16:45:26.188825Z,3.51,swing,Market volatility
+AAPL,buy,143,193.03,2025-06-05T16:54:58.861974Z,8.09,momentum,
+GOOG,sell,137,3061.93,2025-06-05T17:29:12.650005Z,6.47,day_trading,News catalyst
+TSLA,sell,101,178.54,2025-06-05T18:08:15.473874Z,1.97,breakout,Market volatility
+TSLA,sell,126,261.69,2025-06-05T20:41:52.580637Z,3.49,breakout,
+AMZN,sell,130,169.94,2025-06-05T21:21:21.255437Z,0.96,breakout,Support level
+META,sell,171,442.85,2025-06-05T21:21:51.866524Z,0.81,swing,Support level
+AAPL,sell,143,178.98,2025-06-05T21:58:20.861974Z,5.76,momentum,Technical breakout
+AAPL,sell,194,178.39,2025-06-05T22:05:34.595845Z,0.94,scalping,
+GOOG,sell,101,2828.89,2025-06-06T03:18:52.307831Z,9.62,day_trading,Support level
+META,sell,188,410.87,2025-06-06T03:50:31.848203Z,6.33,,Technical breakout
+GOOG,buy,162,2536.76,2025-06-06T09:23:56.343016Z,4.63,scalping,Support level
+MSFT,sell,141,420.02,2025-06-06T09:36:22.553786Z,8.46,day_trading,Market volatility
+MSFT,buy,154,394.33,2025-06-06T10:09:16.594299Z,4.03,day_trading,Market volatility
+TSLA,buy,181,191.43,2025-06-06T10:12:51.854487Z,8.99,scalping,Profit target hit
+TSLA,buy,187,222.72,2025-06-06T10:15:46.481008Z,8.23,scalping,Technical breakout
+AAPL,sell,132,206.03,2025-06-06T10:15:57.902618Z,6.44,breakout,
+AMZN,buy,191,168.57,2025-06-06T10:39:20.758947Z,8.86,swing,Profit target hit
+TSLA,buy,119,244.12,2025-06-06T10:47:09.491693Z,5.83,scalping,Stop loss triggered
+GOOG,buy,165,2532.8,2025-06-06T11:23:50.017566Z,3.73,mean_reversion,Profit target hit
+TSLA,buy,111,225.16,2025-06-06T11:25:27.034580Z,4.24,swing,Profit target hit
+META,sell,110,547.75,2025-06-06T11:25:30.358844Z,8.96,scalping,Stop loss triggered
+TSLA,buy,103,181.1,2025-06-06T11:44:53.560978Z,4.98,swing,Stop loss triggered
+GOOG,buy,165,2634.17,2025-06-06T13:07:11.099792Z,8.7,momentum,Profit target hit
+META,sell,167,466.0,2025-06-06T14:00:39.974738Z,9.23,swing,Stop loss triggered
+NVDA,buy,157,620.0,2025-06-06T14:10:36.879714Z,5.19,,Technical breakout
+META,buy,199,473.78,2025-06-06T14:44:25.722429Z,5.06,swing,Support level
+GOOG,sell,166,2486.9,2025-06-06T15:20:13.502006Z,3.66,breakout,
+AMZN,buy,156,121.44,2025-06-06T15:30:44.446662Z,1.78,momentum,News catalyst
+META,buy,117,448.07,2025-06-06T15:48:20.049316Z,4.36,breakout,News catalyst
+GOOG,sell,185,2532.26,2025-06-06T18:14:38.531191Z,0.57,,Good entry point
+TSLA,sell,187,223.6,2025-06-06T19:46:11.481008Z,0.53,scalping,
+TSLA,sell,147,240.17,2025-06-06T21:20:47.582475Z,5.08,breakout,
+GOOG,sell,165,2809.8,2025-06-06T21:48:39.099792Z,5.09,momentum,Support level
+GOOG,sell,116,2622.53,2025-06-06T23:58:13.941186Z,9.73,momentum,
+TSLA,sell,181,214.15,2025-06-07T00:13:04.854487Z,2.68,scalping,Market volatility
+META,sell,151,456.67,2025-06-07T01:19:12.122834Z,8.31,breakout,Resistance level
+TSLA,sell,103,214.28,2025-06-07T02:02:32.560978Z,7.65,swing,
+NVDA,sell,197,564.74,2025-06-07T02:20:48.741455Z,7.69,breakout,Good entry point
+MSFT,sell,177,457.65,2025-06-07T02:26:05.318395Z,0.18,,Good entry point
+GOOG,sell,180,2498.06,2025-06-07T04:09:33.753868Z,2.08,breakout,Technical breakout
+MSFT,sell,115,392.95,2025-06-07T04:56:22.147657Z,8.9,breakout,Technical breakout
+GOOG,sell,114,2395.82,2025-06-07T05:16:55.151629Z,3.54,day_trading,Support level
+TSLA,sell,197,233.03,2025-06-07T08:50:27.253981Z,4.11,mean_reversion,Technical breakout
+TSLA,buy,153,272.28,2025-06-07T10:00:12.023184Z,0.51,momentum,News catalyst
+GOOG,buy,172,2629.31,2025-06-07T10:13:19.855479Z,6.68,,
+MSFT,buy,195,390.7,2025-06-07T10:13:49.436170Z,6.27,momentum,Stop loss triggered
+NVDA,buy,136,501.98,2025-06-07T10:14:04.933564Z,3.04,mean_reversion,Good entry point
+TSLA,buy,149,208.36,2025-06-07T10:27:24.963845Z,5.16,breakout,
+GOOG,buy,105,2766.75,2025-06-07T10:29:36.845810Z,9.24,breakout,Stop loss triggered
+AAPL,buy,115,196.51,2025-06-07T11:31:45.413710Z,3.14,,
+TSLA,buy,169,250.07,2025-06-07T11:31:55.807637Z,9.93,breakout,Profit target hit
+MSFT,buy,179,443.51,2025-06-07T11:35:30.553909Z,7.71,day_trading,Stop loss triggered
+GOOG,buy,175,2544.55,2025-06-07T11:35:50.658192Z,1.85,scalping,Market volatility
+GOOG,buy,104,2745.41,2025-06-07T12:03:35.512993Z,2.16,,Market volatility
+AAPL,sell,109,167.43,2025-06-07T12:06:28.164988Z,9.21,mean_reversion,Resistance level
+AMZN,buy,170,126.17,2025-06-07T12:47:46.177383Z,8.25,momentum,Resistance level
+GOOG,sell,199,2735.12,2025-06-07T12:51:40.731884Z,6.66,breakout,Support level
+AAPL,buy,200,154.88,2025-06-07T13:15:52.617635Z,7.28,momentum,
+AAPL,buy,158,160.18,2025-06-07T13:35:07.572482Z,3.0,scalping,Technical breakout
+TSLA,buy,108,202.52,2025-06-07T13:46:26.058964Z,4.63,breakout,Market volatility
+META,sell,187,438.59,2025-06-07T13:48:13.471626Z,5.07,mean_reversion,Profit target hit
+GOOG,buy,119,2696.19,2025-06-07T14:24:29.594296Z,9.13,mean_reversion,
+GOOG,sell,175,2638.65,2025-06-07T14:58:00.543949Z,6.65,mean_reversion,Market volatility
+AAPL,sell,158,168.53,2025-06-07T15:00:38.572482Z,7.19,scalping,News catalyst
+GOOG,sell,153,3016.98,2025-06-07T15:03:03.053099Z,5.57,,Good entry point
+AMZN,buy,169,158.19,2025-06-07T16:12:37.045480Z,0.22,swing,Support level
+NVDA,buy,190,432.59,2025-06-07T16:53:06.469407Z,6.05,,Stop loss triggered
+TSLA,sell,153,296.23,2025-06-07T18:25:46.023184Z,4.12,momentum,News catalyst
+NVDA,sell,114,934.72,2025-06-07T18:52:55.454254Z,8.55,breakout,
+NVDA,sell,157,686.5,2025-06-07T19:04:13.879714Z,1.58,,Stop loss triggered
+NVDA,sell,113,684.28,2025-06-07T20:44:27.785983Z,6.01,breakout,Market volatility
+AMZN,sell,148,148.03,2025-06-07T21:21:44.702264Z,9.67,breakout,
+META,sell,140,450.71,2025-06-07T22:22:05.382947Z,8.38,mean_reversion,Market volatility
+META,sell,198,396.37,2025-06-07T23:22:10.141950Z,4.24,swing,Stop loss triggered
+NVDA,sell,120,616.69,2025-06-07T23:59:45.310348Z,6.23,swing,
+MSFT,sell,186,387.22,2025-06-08T01:26:17.560187Z,4.7,swing,Stop loss triggered
+AAPL,sell,119,198.85,2025-06-08T07:00:41.347051Z,7.17,,
+META,sell,156,300.84,2025-06-08T07:44:40.726853Z,5.11,swing,
+TSLA,sell,111,201.74,2025-06-08T08:18:53.034580Z,5.56,swing,Support level
+GOOG,sell,105,2327.01,2025-06-08T08:41:44.745292Z,2.0,scalping,Good entry point
+META,sell,117,479.39,2025-06-08T09:47:42.049316Z,3.21,breakout,
+AMZN,buy,159,121.27,2025-06-08T10:04:22.730512Z,9.08,,Technical breakout
+MSFT,buy,132,439.52,2025-06-08T10:18:45.299165Z,2.88,day_trading,Market volatility
+AAPL,buy,166,151.19,2025-06-08T10:29:57.783791Z,8.4,swing,
+GOOG,buy,187,2771.48,2025-06-08T11:12:37.130429Z,5.15,scalping,Resistance level
+AMZN,sell,169,139.64,2025-06-08T11:38:37.045480Z,7.0,swing,
+NVDA,buy,151,578.28,2025-06-08T11:54:10.887953Z,5.85,swing,Technical breakout
+NVDA,buy,174,415.65,2025-06-08T12:23:23.889484Z,4.93,swing,
+GOOG,sell,127,2843.8,2025-06-08T12:35:13.872481Z,1.98,breakout,Support level
+MSFT,buy,177,434.12,2025-06-08T12:45:53.073208Z,7.48,swing,Support level
+AMZN,buy,170,174.06,2025-06-08T12:51:22.931549Z,9.67,scalping,News catalyst
+AAPL,buy,134,174.42,2025-06-08T12:55:07.809506Z,0.42,scalping,Market volatility
+AAPL,buy,102,159.79,2025-06-08T12:55:54.718374Z,0.35,scalping,Support level
+AMZN,buy,175,177.73,2025-06-08T13:13:46.401989Z,4.52,swing,Market volatility
+AMZN,sell,149,191.82,2025-06-08T13:56:05.111142Z,5.44,momentum,Support level
+GOOG,buy,110,2551.08,2025-06-08T13:59:34.428537Z,0.45,day_trading,Support level
+GOOG,buy,185,2689.14,2025-06-08T15:26:20.678557Z,7.46,,
+TSLA,buy,110,235.33,2025-06-08T15:45:34.008319Z,1.58,swing,
+TSLA,buy,100,278.0,2025-06-08T16:42:37.527072Z,3.23,momentum,Market volatility
+AAPL,buy,115,173.24,2025-06-08T16:47:51.952950Z,4.79,momentum,News catalyst
+MSFT,sell,177,479.37,2025-06-08T18:57:51.073208Z,6.15,swing,
+AMZN,sell,156,144.72,2025-06-08T21:30:09.446662Z,5.58,momentum,News catalyst
+META,sell,169,448.06,2025-06-08T22:32:37.771897Z,3.66,,
+GOOG,sell,187,3078.7,2025-06-08T23:01:25.477154Z,6.95,day_trading,News catalyst
+GOOG,sell,101,3238.74,2025-06-09T01:25:11.237374Z,4.18,scalping,
+TSLA,sell,190,292.0,2025-06-09T01:41:52.952072Z,1.2,mean_reversion,Profit target hit
+META,sell,121,507.45,2025-06-09T01:45:50.635905Z,8.9,breakout,Support level
+NVDA,sell,149,679.16,2025-06-09T02:39:39.827473Z,2.86,mean_reversion,News catalyst
+MSFT,sell,160,409.21,2025-06-09T09:06:33.365367Z,5.01,scalping,Resistance level
+AMZN,sell,191,172.78,2025-06-09T09:23:13.758947Z,7.68,swing,
+META,buy,169,302.6,2025-06-09T09:30:59.443434Z,0.53,day_trading,
+META,buy,112,489.03,2025-06-09T10:07:52.361062Z,2.82,swing,Resistance level
+AAPL,buy,163,195.83,2025-06-09T11:04:20.887274Z,0.72,,Resistance level
+GOOG,buy,101,2728.2,2025-06-09T12:03:09.804306Z,6.76,breakout,Resistance level
+AMZN,sell,144,141.07,2025-06-09T12:44:28.467168Z,2.32,mean_reversion,
+GOOG,buy,117,2707.55,2025-06-09T14:17:38.518322Z,6.07,,Stop loss triggered
+GOOG,sell,165,2432.08,2025-06-09T14:39:09.017566Z,2.73,mean_reversion,Technical breakout
+AMZN,buy,172,169.99,2025-06-09T14:46:24.125831Z,6.22,scalping,Support level
+GOOG,buy,120,2638.66,2025-06-09T14:57:51.655312Z,9.1,scalping,Support level
+TSLA,sell,179,229.74,2025-06-09T14:59:09.611253Z,9.12,breakout,Good entry point
+AMZN,buy,107,159.24,2025-06-09T15:22:05.064655Z,5.74,mean_reversion,News catalyst
+TSLA,buy,129,260.28,2025-06-09T15:29:51.622597Z,0.4,scalping,Good entry point
+AAPL,buy,159,165.06,2025-06-09T16:00:20.724513Z,1.39,swing,Technical breakout
+GOOG,buy,150,2583.56,2025-06-09T16:13:22.653410Z,2.74,breakout,Good entry point
+TSLA,sell,134,294.42,2025-06-09T17:51:11.787493Z,1.24,,
+MSFT,sell,132,503.22,2025-06-09T18:21:15.299165Z,9.61,day_trading,Resistance level
+AAPL,sell,198,154.77,2025-06-09T18:53:48.278612Z,6.27,swing,Profit target hit
+GOOG,sell,162,2615.84,2025-06-09T19:27:33.343016Z,1.18,scalping,Stop loss triggered
+TSLA,sell,149,224.71,2025-06-09T20:23:38.963845Z,8.8,breakout,News catalyst
+NVDA,sell,151,538.75,2025-06-09T23:15:33.887953Z,1.75,swing,Support level
+AMZN,sell,104,140.74,2025-06-10T00:15:29.255080Z,1.69,breakout,Support level
+TSLA,sell,145,219.38,2025-06-10T00:23:20.254695Z,4.73,day_trading,News catalyst
+GOOG,sell,120,2688.36,2025-06-10T01:10:40.655312Z,5.11,scalping,News catalyst
+TSLA,sell,119,264.23,2025-06-10T02:54:35.491693Z,9.68,scalping,News catalyst
+META,sell,108,443.73,2025-06-10T04:12:02.893813Z,1.94,swing,Profit target hit
+TSLA,sell,158,237.03,2025-06-10T07:06:56.632802Z,3.39,day_trading,Market volatility
+TSLA,sell,169,218.18,2025-06-10T07:26:57.807637Z,0.86,breakout,
+AAPL,sell,107,205.68,2025-06-10T08:31:59.399749Z,2.89,breakout,Profit target hit
+META,sell,199,410.78,2025-06-10T09:33:15.722429Z,8.52,swing,News catalyst
+AMZN,sell,172,203.82,2025-06-10T09:35:01.125831Z,2.89,scalping,
+TSLA,buy,147,195.65,2025-06-10T10:02:48.645554Z,2.93,scalping,Technical breakout
+TSLA,buy,184,258.26,2025-06-10T11:15:13.332760Z,4.65,scalping,
+NVDA,sell,136,574.82,2025-06-10T11:20:06.933564Z,7.6,mean_reversion,
+TSLA,buy,121,266.74,2025-06-10T11:26:32.845424Z,0.97,breakout,Good entry point
+AAPL,sell,175,165.1,2025-06-10T11:31:33.682837Z,4.71,day_trading,Technical breakout
+NVDA,sell,131,612.18,2025-06-10T11:45:43.042782Z,6.33,scalping,Profit target hit
+TSLA,sell,144,161.28,2025-06-10T12:13:54.190464Z,3.8,,Market volatility
+AMZN,buy,105,123.18,2025-06-10T12:21:28.050763Z,6.79,mean_reversion,News catalyst
+MSFT,buy,106,381.34,2025-06-10T12:31:21.223858Z,8.71,mean_reversion,Good entry point
+GOOG,buy,115,2771.11,2025-06-10T12:49:14.089819Z,8.54,scalping,Support level
+AAPL,buy,119,155.74,2025-06-10T13:20:10.049321Z,5.75,mean_reversion,Technical breakout
+GOOG,buy,164,2616.25,2025-06-10T13:39:48.454134Z,9.84,mean_reversion,Market volatility
+MSFT,buy,103,417.66,2025-06-10T14:09:11.582020Z,5.28,day_trading,Resistance level
+TSLA,buy,191,209.46,2025-06-10T14:19:07.123588Z,8.6,,
+MSFT,buy,107,377.04,2025-06-10T15:31:32.128312Z,1.82,swing,
+TSLA,sell,121,272.58,2025-06-10T15:57:27.845424Z,5.79,breakout,Stop loss triggered
+AMZN,buy,123,121.65,2025-06-10T15:59:36.954479Z,4.75,scalping,Technical breakout
+GOOG,buy,111,2504.44,2025-06-10T16:12:46.896205Z,1.3,swing,
+TSLA,buy,165,261.13,2025-06-10T16:58:10.723033Z,0.39,breakout,Good entry point
+GOOG,sell,150,2928.19,2025-06-10T20:31:14.653410Z,4.66,breakout,Technical breakout
+MSFT,sell,198,451.77,2025-06-10T21:01:06.374707Z,3.88,,News catalyst
+NVDA,sell,174,453.28,2025-06-11T02:10:56.889484Z,3.45,swing,News catalyst
+GOOG,sell,188,2676.55,2025-06-11T03:53:29.330109Z,9.76,momentum,Stop loss triggered
+TSLA,sell,100,184.46,2025-06-11T04:58:58.541765Z,4.92,mean_reversion,Resistance level
+GOOG,sell,104,2589.34,2025-06-11T05:46:43.512993Z,3.25,,Support level
+AAPL,sell,115,170.51,2025-06-11T06:14:26.413710Z,8.22,,Stop loss triggered
+TSLA,sell,129,297.08,2025-06-11T08:30:34.622597Z,7.56,scalping,Resistance level
+MSFT,sell,143,393.69,2025-06-11T08:42:05.896790Z,9.53,day_trading,News catalyst
+AAPL,buy,128,191.72,2025-06-11T10:04:16.892567Z,5.01,day_trading,Resistance level
+TSLA,buy,127,225.77,2025-06-11T10:21:31.149980Z,8.4,,Support level
+GOOG,buy,155,2758.73,2025-06-11T11:54:21.445738Z,0.82,,
+NVDA,buy,165,649.46,2025-06-11T12:01:05.509363Z,1.42,breakout,
+MSFT,buy,157,356.44,2025-06-11T12:05:24.726814Z,8.52,momentum,News catalyst
+TSLA,buy,116,204.51,2025-06-11T12:14:50.872865Z,7.81,momentum,Stop loss triggered
+META,buy,112,397.07,2025-06-11T12:39:41.816163Z,3.73,momentum,Technical breakout
+META,sell,112,571.88,2025-06-11T13:05:28.361062Z,3.77,swing,
+GOOG,sell,110,2397.0,2025-06-11T13:21:18.428537Z,4.09,day_trading,Good entry point
+AAPL,sell,163,183.44,2025-06-11T13:58:19.887274Z,9.82,,Technical breakout
+MSFT,sell,195,402.51,2025-06-11T14:06:43.436170Z,6.96,momentum,Support level
+MSFT,sell,154,462.28,2025-06-11T14:09:13.594299Z,5.87,day_trading,Market volatility
+AMZN,sell,159,109.82,2025-06-11T14:19:49.730512Z,7.52,,Market volatility
+AMZN,buy,120,156.89,2025-06-11T15:10:15.983833Z,6.38,breakout,Resistance level
+TSLA,sell,130,228.54,2025-06-11T15:18:58.981998Z,3.67,,Support level
+AAPL,sell,134,150.38,2025-06-11T15:32:01.809506Z,3.64,scalping,Technical breakout
+GOOG,buy,196,2531.82,2025-06-11T15:34:07.301405Z,6.22,breakout,Profit target hit
+GOOG,buy,195,2754.85,2025-06-11T15:38:28.512740Z,8.73,scalping,Profit target hit
+NVDA,sell,190,468.13,2025-06-11T19:40:28.469407Z,2.15,,Profit target hit
+AAPL,sell,115,170.42,2025-06-11T21:35:56.952950Z,8.57,momentum,Support level
+GOOG,sell,199,2577.22,2025-06-11T23:01:15.425912Z,5.46,scalping,Stop loss triggered
+AAPL,sell,166,156.96,2025-06-12T01:37:58.783791Z,8.81,swing,Profit target hit
+GOOG,sell,187,3016.0,2025-06-12T04:46:27.130429Z,8.46,scalping,
+NVDA,sell,165,701.25,2025-06-12T06:23:08.509363Z,0.57,breakout,News catalyst
+GOOG,sell,172,2667.56,2025-06-12T09:01:07.855479Z,9.75,,News catalyst
+GOOG,buy,115,2785.23,2025-06-12T09:15:28.965234Z,3.9,breakout,Good entry point
+AAPL,buy,102,193.4,2025-06-12T09:19:59.065557Z,0.72,day_trading,Stop loss triggered
+AAPL,buy,177,197.31,2025-06-12T09:39:20.845600Z,8.17,scalping,
+AAPL,buy,195,172.63,2025-06-12T10:20:21.040450Z,6.43,swing,Resistance level
+GOOG,buy,182,2628.2,2025-06-12T10:20:59.319003Z,2.77,,
+MSFT,sell,103,422.28,2025-06-12T11:20:35.582020Z,0.76,day_trading,Profit target hit
+AAPL,buy,137,151.39,2025-06-12T11:23:11.076091Z,7.83,momentum,
+TSLA,buy,179,198.05,2025-06-12T12:10:04.002556Z,0.34,swing,Technical breakout
+META,buy,120,394.33,2025-06-12T12:50:41.561582Z,3.66,breakout,Good entry point
+GOOG,buy,112,2577.76,2025-06-12T15:23:46.879181Z,4.9,momentum,Good entry point
+META,buy,116,419.04,2025-06-12T15:35:14.396243Z,8.11,mean_reversion,Technical breakout
+META,buy,189,382.27,2025-06-12T16:38:13.072721Z,2.84,day_trading,News catalyst
+GOOG,sell,115,3064.0,2025-06-12T16:42:52.089819Z,5.36,scalping,
+TSLA,sell,147,234.67,2025-06-12T17:25:46.645554Z,4.47,scalping,Stop loss triggered
+AMZN,sell,170,108.49,2025-06-12T17:55:01.177383Z,0.36,momentum,Stop loss triggered
+AAPL,sell,102,188.39,2025-06-12T19:04:23.065557Z,5.45,day_trading,Technical breakout
+AAPL,sell,195,164.21,2025-06-12T21:00:27.040450Z,8.76,swing,Profit target hit
+AMZN,sell,175,177.87,2025-06-12T21:51:21.401989Z,8.1,swing,Market volatility
+MSFT,sell,106,456.42,2025-06-12T22:47:36.223858Z,7.82,mean_reversion,Support level
+AMZN,sell,123,128.67,2025-06-12T23:00:33.954479Z,7.12,scalping,Support level
+AAPL,sell,200,157.22,2025-06-13T02:02:22.617635Z,8.61,momentum,Resistance level
+AMZN,sell,105,141.42,2025-06-13T03:03:09.050763Z,0.83,mean_reversion,Stop loss triggered
+AMZN,sell,170,179.24,2025-06-13T05:37:02.931549Z,6.89,scalping,
+AAPL,sell,159,152.81,2025-06-13T08:26:01.724513Z,1.85,swing,
+TSLA,buy,124,189.35,2025-06-13T09:58:42.734436Z,7.78,swing,Stop loss triggered
+TSLA,buy,117,185.33,2025-06-13T11:06:14.988803Z,3.14,day_trading,Stop loss triggered
+NVDA,buy,170,576.25,2025-06-13T11:21:19.288273Z,5.66,scalping,Support level
+AMZN,buy,197,150.07,2025-06-13T11:40:17.252680Z,1.06,momentum,Good entry point
+MSFT,buy,108,419.34,2025-06-13T11:45:08.399982Z,2.8,mean_reversion,Stop loss triggered
+TSLA,buy,133,195.43,2025-06-13T11:48:43.838991Z,4.36,swing,Market volatility
+META,buy,175,308.21,2025-06-13T12:15:00.501204Z,8.48,swing,Resistance level
+AAPL,buy,103,169.0,2025-06-13T12:26:48.249145Z,8.04,,Resistance level
+META,buy,107,349.72,2025-06-13T12:31:23.631309Z,2.14,swing,Stop loss triggered
+META,buy,180,399.07,2025-06-13T13:03:44.536393Z,8.89,scalping,
+NVDA,buy,200,485.62,2025-06-13T13:24:47.079256Z,6.57,mean_reversion,
+NVDA,buy,198,511.09,2025-06-13T13:39:08.411155Z,3.87,day_trading,Technical breakout
+MSFT,buy,169,369.51,2025-06-13T13:53:10.063414Z,7.99,swing,Technical breakout
+MSFT,buy,183,416.92,2025-06-13T13:55:56.329816Z,8.48,,
+MSFT,sell,108,492.04,2025-06-13T14:26:31.399982Z,9.94,mean_reversion,Stop loss triggered
+GOOG,buy,172,2539.95,2025-06-13T15:27:35.767407Z,7.39,day_trading,
+AAPL,buy,170,163.76,2025-06-13T15:48:00.364483Z,3.71,scalping,Technical breakout
+NVDA,buy,128,438.38,2025-06-13T16:15:11.701648Z,0.03,,Technical breakout
+AMZN,buy,171,170.45,2025-06-13T16:29:59.533237Z,2.82,momentum,News catalyst
+META,buy,171,393.25,2025-06-13T16:38:55.976915Z,3.69,day_trading,
+GOOG,sell,175,2561.43,2025-06-13T18:33:15.658192Z,4.19,scalping,
+GOOG,sell,117,3122.26,2025-06-13T19:02:56.518322Z,5.92,,Support level
+TSLA,sell,108,229.85,2025-06-13T19:56:35.058964Z,6.68,breakout,Good entry point
+AMZN,sell,197,150.54,2025-06-13T20:14:39.252680Z,7.8,momentum,Stop loss triggered
+GOOG,sell,182,2257.36,2025-06-13T20:42:37.319003Z,3.87,,
+GOOG,sell,195,2459.31,2025-06-13T21:45:33.512740Z,5.19,scalping,
+GOOG,sell,119,2591.49,2025-06-13T22:09:16.594296Z,2.63,mean_reversion,News catalyst
+GOOG,sell,105,2555.38,2025-06-13T22:16:28.845810Z,9.86,breakout,Market volatility
+TSLA,sell,110,220.69,2025-06-13T23:08:59.008319Z,7.44,swing,Support level
+AAPL,sell,189,211.54,2025-06-14T00:00:00.000000Z,1.97,swing,
+TSLA,sell,165,297.27,2025-06-14T00:00:00.000000Z,7.32,breakout,Stop loss triggered
+NVDA,sell,136,603.81,2025-06-14T00:00:00.000000Z,9.91,scalping,
+AMZN,sell,171,201.58,2025-06-14T01:00:00.000000Z,0.66,momentum,Technical breakout
+NVDA,sell,200,442.2,2025-06-14T01:00:00.000000Z,9.99,mean_reversion,Profit target hit
+AAPL,sell,192,175.79,2025-06-14T01:00:00.000000Z,5.51,scalping,Resistance level
+TSLA,sell,184,245.46,2025-06-14T02:00:00.000000Z,4.85,scalping,
+MSFT,sell,169,404.41,2025-06-14T02:00:00.000000Z,7.76,swing,Profit target hit
+META,sell,171,365.45,2025-06-14T02:00:00.000000Z,0.3,day_trading,News catalyst
+AAPL,sell,124,164.62,2025-06-14T02:00:00.000000Z,4.96,swing,
+NVDA,sell,128,500.58,2025-06-14T02:00:00.000000Z,0.8,,News catalyst
+AAPL,sell,136,195.24,2025-06-14T02:00:00.000000Z,8.11,swing,Profit target hit
+TSLA,sell,100,310.15,2025-06-14T02:02:57.527072Z,7.87,momentum,Technical breakout
+TSLA,sell,116,217.74,2025-06-14T03:00:00.000000Z,3.47,momentum,
+META,sell,100,453.86,2025-06-14T04:00:00.000000Z,5.08,scalping,Support level
+TSLA,sell,179,228.77,2025-06-14T04:00:00.000000Z,0.31,swing,Market volatility
+META,sell,189,443.64,2025-06-14T04:00:00.000000Z,3.11,day_trading,Technical breakout
+META,sell,175,341.87,2025-06-14T04:00:00.000000Z,5.75,swing,News catalyst
+META,sell,112,364.85,2025-06-14T04:04:59.816163Z,2.67,momentum,Market volatility
+MSFT,sell,179,517.41,2025-06-14T04:28:23.553909Z,1.39,day_trading,Stop loss triggered
+MSFT,sell,165,390.51,2025-06-14T05:00:00.000000Z,0.62,day_trading,News catalyst
+TSLA,sell,136,225.45,2025-06-14T05:00:00.000000Z,4.69,,Technical breakout
+GOOG,sell,191,2972.08,2025-06-14T05:00:00.000000Z,3.16,breakout,News catalyst
+TSLA,sell,117,208.31,2025-06-14T06:00:00.000000Z,9.75,day_trading,
+GOOG,sell,155,2684.73,2025-06-14T06:00:00.000000Z,6.37,,Stop loss triggered
+AMZN,sell,107,157.66,2025-06-14T07:54:46.064655Z,9.58,mean_reversion,Good entry point
+TSLA,sell,142,261.77,2025-06-14T08:00:00.000000Z,3.1,mean_reversion,News catalyst
+NVDA,sell,170,686.3,2025-06-14T08:00:00.000000Z,1.96,scalping,News catalyst
+TSLA,sell,161,226.11,2025-06-14T09:00:00.000000Z,8.91,swing,Market volatility
+AAPL,buy,192,182.5,2025-06-14T09:32:30.667462Z,0.79,scalping,
+AAPL,sell,170,144.15,2025-06-14T10:00:00.000000Z,7.52,scalping,Profit target hit
+TSLA,buy,161,249.3,2025-06-14T10:28:23.712302Z,5.56,swing,Technical breakout
+META,buy,197,458.78,2025-06-14T10:49:13.015132Z,0.16,momentum,Technical breakout
+MSFT,sell,107,370.13,2025-06-14T10:51:28.128312Z,3.63,swing,Resistance level
+GOOG,sell,101,2838.06,2025-06-14T11:00:00.000000Z,9.34,breakout,
+AAPL,sell,177,184.81,2025-06-14T11:00:00.000000Z,1.48,scalping,Stop loss triggered
+AMZN,sell,123,150.85,2025-06-14T11:00:00.000000Z,9.88,mean_reversion,Stop loss triggered
+AAPL,sell,102,172.65,2025-06-14T11:27:30.718374Z,8.06,scalping,
+MSFT,buy,165,396.86,2025-06-14T11:57:20.216185Z,3.81,day_trading,Profit target hit
+MSFT,sell,183,451.84,2025-06-14T12:00:00.000000Z,0.85,,Support level
+GOOG,sell,110,3005.11,2025-06-14T12:00:00.000000Z,1.67,breakout,
+TSLA,buy,136,235.92,2025-06-14T12:10:59.980583Z,6.13,,Support level
+GOOG,sell,185,3084.4,2025-06-14T12:22:37.678557Z,3.46,,
+META,sell,169,310.19,2025-06-14T12:26:16.443434Z,2.51,day_trading,Profit target hit
+AAPL,buy,189,192.57,2025-06-14T12:37:52.505607Z,9.6,swing,Good entry point
+MSFT,buy,101,445.66,2025-06-14T13:00:55.492055Z,3.69,breakout,Resistance level
+TSLA,buy,117,183.12,2025-06-14T13:17:20.683073Z,6.49,mean_reversion,Resistance level
+AAPL,buy,124,173.88,2025-06-14T13:26:07.490307Z,3.5,swing,Resistance level
+TSLA,buy,153,184.57,2025-06-14T13:37:12.344335Z,3.52,day_trading,
+MSFT,sell,101,500.89,2025-06-14T13:38:04.492055Z,9.69,breakout,
+META,buy,193,405.26,2025-06-14T14:23:41.822524Z,6.19,scalping,
+AAPL,buy,136,174.01,2025-06-14T14:24:51.836286Z,7.62,swing,Support level
+TSLA,sell,124,189.15,2025-06-14T15:00:00.000000Z,6.62,swing,Profit target hit
+NVDA,buy,136,575.6,2025-06-14T15:02:13.786077Z,3.87,scalping,
+AMZN,buy,123,147.53,2025-06-14T15:05:22.273253Z,3.39,mean_reversion,Profit target hit
+GOOG,sell,115,2469.25,2025-06-14T15:25:52.965234Z,5.18,breakout,Resistance level
+GOOG,buy,191,2535.06,2025-06-14T15:56:01.965447Z,5.34,breakout,Good entry point
+TSLA,sell,117,186.71,2025-06-14T16:00:00.000000Z,9.15,mean_reversion,Good entry point
+AAPL,sell,119,145.63,2025-06-14T16:00:00.000000Z,6.63,mean_reversion,Profit target hit
+AAPL,buy,101,180.03,2025-06-14T16:26:27.748977Z,2.88,breakout,News catalyst
+META,buy,100,408.22,2025-06-14T16:28:12.761527Z,5.69,scalping,Technical breakout
+NVDA,buy,164,471.06,2025-06-14T16:38:42.666845Z,2.85,swing,Stop loss triggered
+TSLA,buy,142,243.31,2025-06-14T16:40:50.870133Z,3.07,mean_reversion,Technical breakout
+GOOG,buy,110,2552.04,2025-06-14T16:42:53.896618Z,0.47,breakout,Profit target hit
+GOOG,sell,112,2401.04,2025-06-14T16:49:33.879181Z,3.58,momentum,Resistance level
+META,sell,116,424.35,2025-06-14T17:00:00.000000Z,6.39,mean_reversion,Good entry point
+GOOG,sell,111,2892.87,2025-06-14T17:00:00.000000Z,6.64,swing,Profit target hit
+META,sell,180,455.9,2025-06-14T18:00:00.000000Z,1.23,scalping,Stop loss triggered
+META,sell,120,464.83,2025-06-14T18:00:00.000000Z,5.63,breakout,Technical breakout
+AAPL,sell,103,154.0,2025-06-14T18:00:00.000000Z,0.66,,
+AAPL,sell,128,176.9,2025-06-14T19:00:00.000000Z,5.14,day_trading,Resistance level
+MSFT,sell,157,329.28,2025-06-14T19:00:00.000000Z,7.69,momentum,Technical breakout
+NVDA,sell,198,485.67,2025-06-14T19:00:00.000000Z,6.97,day_trading,Support level
+META,sell,193,465.34,2025-06-14T19:00:00.000000Z,1.4,scalping,Technical breakout
+TSLA,sell,191,231.91,2025-06-14T19:42:32.123588Z,5.81,,News catalyst
+GOOG,sell,196,2667.61,2025-06-14T20:00:00.000000Z,2.4,breakout,Good entry point
+TSLA,sell,133,212.48,2025-06-14T20:11:10.838991Z,3.67,swing,Stop loss triggered
+AAPL,sell,137,145.55,2025-06-14T21:00:00.000000Z,2.81,momentum,Resistance level
+TSLA,sell,153,163.11,2025-06-14T21:00:00.000000Z,6.79,day_trading,Support level
+GOOG,sell,164,2716.02,2025-06-14T21:00:00.000000Z,2.64,mean_reversion,Technical breakout
+META,sell,107,321.32,2025-06-14T21:00:00.000000Z,7.85,swing,Technical breakout
+TSLA,sell,127,251.32,2025-06-14T21:13:41.149980Z,0.44,,Resistance level
+META,sell,197,441.46,2025-06-14T22:00:00.000000Z,0.61,momentum,
+AAPL,sell,101,180.73,2025-06-14T22:00:00.000000Z,0.86,breakout,Market volatility
+AMZN,sell,120,142.81,2025-06-14T22:00:00.000000Z,4.59,breakout,Technical breakout
+GOOG,sell,172,2756.43,2025-06-14T22:13:34.767407Z,7.24,day_trading,Technical breakout
+NVDA,sell,164,527.63,2025-06-14T23:08:50.666845Z,7.32,swing,
