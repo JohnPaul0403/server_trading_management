@@ -6,8 +6,8 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from .models import User
 from .serializers import (
     UserRegistrationSerializer, UserLoginSerializer, UserProfileSerializer, 
-    ChangePasswordSerializer, VerifyUserProfileSerializer, ForgotPasswordSerializer,
-    ResetPasswordSerializer)
+    ChangePasswordSerializer, ForgotPasswordSerializer, ResetPasswordSerializer, 
+    EmailVerificationSerializer, EmailVerificationConfirmSerializer)
 
 class RegisterView(generics.CreateAPIView):
     queryset = User.objects.all()
@@ -112,10 +112,29 @@ class ProfileView(generics.RetrieveUpdateAPIView):
 
     def get_object(self):
         return self.request.user
+    
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def request_email_verification(request):
+    """
+    Request email verification for a given email address.
+    Uses the same security approach as forgot password.
+    """
+    serializer = EmailVerificationSerializer(data=request.data)
+    if serializer.is_valid():
+        result = serializer.save()
+        return Response(result, status=status.HTTP_200_OK)
+    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
-class VerifyProfileView(generics.UpdateAPIView):
-    serializer_class = VerifyUserProfileSerializer
-    permission_classes = [IsAuthenticated]
 
-    def get_object(self):
-        return self.request.user
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def verify_email(request):
+    """
+    Verify email using token and uid from verification link.
+    """
+    serializer = EmailVerificationConfirmSerializer(data=request.data)
+    if serializer.is_valid():
+        result = serializer.save()
+        return Response(result, status=status.HTTP_200_OK)
+    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
